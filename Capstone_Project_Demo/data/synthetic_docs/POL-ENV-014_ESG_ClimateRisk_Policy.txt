@@ -1,0 +1,75 @@
+DOCUMENT ID: POL-ENV-014
+TITLE: Environmental, Social and Governance (ESG) and Climate Risk Policy
+VERSION: 1.0
+EFFECTIVE DATE: June 1, 2025
+REVIEW DATE: May 31, 2026
+OWNER: Chief Risk Officer
+CLASSIFICATION: Internal — General
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy establishes the framework for integrating Environmental, Social, and Governance (ESG) factors into Regional Community Bank's risk management, lending practices, and corporate governance. It responds to OCC guidance on climate risk management (OCC Bulletin 2023-37) and emerging FDIC and Federal Reserve expectations.
+
+=============================================================
+2. CLIMATE RISK CATEGORIES
+=============================================================
+2.1 Physical Risk: Risks arising from the physical effects of climate change including:
+    (a) Acute risks: Extreme weather events (floods, hurricanes, wildfires) impacting collateral values and borrower operations;
+    (b) Chronic risks: Long-term changes in weather patterns affecting agricultural, coastal, and energy sector borrowers.
+
+2.2 Transition Risk: Risks arising from the transition to a lower-carbon economy including:
+    (a) Policy and regulatory risk: Carbon taxes, environmental regulations;
+    (b) Technology risk: Disruption from clean energy technologies;
+    (c) Market risk: Shifts in consumer and investor preferences;
+    (d) Reputational risk: Association with carbon-intensive industries.
+
+=============================================================
+3. CLIMATE RISK INTEGRATION IN CREDIT RISK
+=============================================================
+3.1 Physical Risk Screen: All commercial real estate loan applications above $1,000,000 must include a FEMA flood zone determination. Properties in high-risk flood zones (Zone A or V) require:
+    (a) Evidence of adequate flood insurance;
+    (b) 5% additional collateral haircut in LTV calculation;
+    (c) CRO approval for properties in Zone A with LTV > 65%.
+
+3.2 Sector Climate Risk Assessment: The Bank maintains a Climate Risk Sector Heat Map updated annually identifying sectors with high physical and/or transition risk exposure (e.g., coastal real estate, oil & gas, coal, automotive manufacturing).
+
+3.3 High-Climate-Risk Sectors: Lending to sectors identified as High Climate Risk requires:
+    (a) Climate risk questionnaire from borrower;
+    (b) Assessment of borrower's transition plan (for transition risk);
+    (c) Inclusion in annual climate risk stress testing.
+
+=============================================================
+4. ESG DISCLOSURES
+=============================================================
+4.1 The Bank will publish an annual ESG Report aligned with the Task Force on Climate-related Financial Disclosures (TCFD) framework.
+4.2 Climate risk disclosure will include:
+    (a) Governance: Board and management oversight of climate risk;
+    (b) Strategy: Climate risks and opportunities identified;
+    (c) Risk Management: Integration of climate risk in enterprise risk management;
+    (d) Metrics and Targets: Financed emissions (Scope 3) tracking by sector.
+
+4.3 First ESG Report target publication: Q4 2025.
+
+=============================================================
+5. CLIMATE STRESS TESTING
+=============================================================
+5.1 Annual climate risk stress testing shall be conducted across the loan portfolio.
+5.2 Stress scenarios to include:
+    (a) Acute physical risk: 100-year flood event impacting the Bank's primary lending geography;
+    (b) Orderly transition: Carbon pricing of $50/ton CO2 phased in over 5 years;
+    (c) Disorderly transition: Abrupt policy shift with carbon pricing of $150/ton CO2.
+5.3 Stress test results shall be reported to the Board Risk Committee.
+
+=============================================================
+6. SOCIAL AND GOVERNANCE
+=============================================================
+6.1 Community Reinvestment: CRA activity is the Bank's primary social impact vehicle; CRA Committee meets quarterly.
+6.2 Diversity, Equity, and Inclusion (DEI): The Bank maintains an annual DEI report measuring workforce diversity metrics against industry benchmarks.
+6.3 Board Diversity: Board of Directors target is ≥30% diversity (gender, race/ethnicity) by 2027.
+6.4 Supply Chain: Procurement policy requires major suppliers to certify compliance with applicable human rights and environmental standards.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v1.0 (Jun 2025): Initial policy issued in response to OCC climate risk guidance.

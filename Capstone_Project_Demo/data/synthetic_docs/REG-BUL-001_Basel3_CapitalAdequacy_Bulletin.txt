@@ -1,0 +1,80 @@
+DOCUMENT ID: REG-BUL-001
+TITLE: Regulatory Bulletin — Basel III Capital Adequacy Requirements: Implementation Guidance
+VERSION: 1.3
+ISSUE DATE: November 15, 2024
+EFFECTIVE DATE: January 1, 2025
+ISSUING AUTHORITY: Risk & Regulatory Affairs Division
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. EXECUTIVE SUMMARY
+=============================================================
+This bulletin summarizes the final Basel III capital adequacy standards as applicable to Regional Community Bank and provides implementation guidance for 2025 compliance. The standards reflected herein draw from the Federal Reserve Board, OCC, and FDIC joint final rule (effective January 1, 2025) implementing the Basel III endgame requirements for non-G-SIB institutions with assets between $100 billion and $700 billion, with tailored application for community banks below $100 billion in assets.
+
+=============================================================
+2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)
+=============================================================
+2.1 Common Equity Tier 1 (CET1) Capital Ratio:
+    - Minimum requirement: 4.5% of Risk-Weighted Assets (RWA);
+    - Capital Conservation Buffer (CCB): 2.5% above minimum = effective floor of 7.0% CET1;
+    - Bank internal target per Risk Appetite: 9.5% CET1.
+
+2.2 Tier 1 Capital Ratio:
+    - Minimum requirement: 6.0% of RWA;
+    - With CCB: effective floor of 8.5%;
+    - Bank internal target: 11.0%.
+
+2.3 Total Capital Ratio:
+    - Minimum requirement: 8.0% of RWA;
+    - With CCB: effective floor of 10.5%;
+    - Bank internal target: 13.0%.
+
+2.4 Leverage Ratio:
+    - Minimum Tier 1 Leverage Ratio: 4.0% of average total consolidated assets.
+
+2.5 Capital Distribution Restrictions: If CET1 falls below 7.0%, the Bank enters automatic restrictions on capital distributions (dividends, buybacks) per the Capital Conservation Buffer framework.
+
+=============================================================
+3. RISK-WEIGHTED ASSET CALCULATION
+=============================================================
+3.1 The Bank uses the Standardized Approach (SA) for credit risk RWA.
+3.2 Standard risk weights under Basel III SA:
+    - Residential mortgages (LTV ≤ 80%): 50%;
+    - Residential mortgages (LTV > 80%): 100%;
+    - Retail exposures: 75%;
+    - Corporate exposures (unrated): 100%;
+    - Past-due exposures (>90 days): 150%;
+    - CRE (general): 100%; CRE (high volatility): 150%.
+
+3.3 Credit Risk Mitigation: Eligible financial collateral and guarantees may reduce RWA subject to haircut requirements outlined in the OCC's capital rules.
+
+=============================================================
+4. OPERATIONAL RISK CAPITAL UNDER STANDARDIZED APPROACH
+=============================================================
+4.1 The Standardized Measurement Approach (SMA) for operational risk was not adopted for community banks; the Bank uses the Basic Indicator Approach (BIA).
+4.2 Under BIA, operational risk capital = 15% × average gross income over the preceding three years.
+
+=============================================================
+5. ICAAP — INTERNAL CAPITAL ADEQUACY ASSESSMENT PROCESS
+=============================================================
+5.1 The Bank must maintain an Internal Capital Adequacy Assessment Process (ICAAP) reviewed and approved by the Board annually.
+5.2 The ICAAP must address:
+    (a) Capital planning across a three-year forward horizon;
+    (b) Stress testing under the Bank's base, adverse, and severely adverse scenarios;
+    (c) Capital buffer management above regulatory minimums;
+    (d) Recovery options if capital ratios breach internal thresholds.
+
+=============================================================
+6. REPORTING AND DISCLOSURE
+=============================================================
+6.1 Call Report (FFIEC 041/051): Capital ratios must be reported quarterly.
+6.2 Pillar 3 Disclosures: Community banks below $100 billion threshold have streamlined Pillar 3 requirements; qualitative disclosures on risk governance are required annually.
+6.3 Internal capital ratio reporting to the Board Risk Committee: monthly.
+
+=============================================================
+7. ACTION ITEMS FOR 2025
+=============================================================
+- Q1 2025: Validate RWA calculation model against updated standardized risk weights.
+- Q2 2025: Complete ICAAP refresh incorporating 2025 stress scenarios.
+- Q3 2025: Pillar 3 annual disclosure publication.
+- Q4 2025: Board-level capital planning review for 2026.

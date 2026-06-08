@@ -1,0 +1,77 @@
+DOCUMENT ID: POL-MKT-011
+TITLE: Market Conduct and Consumer Protection Policy
+VERSION: 1.5
+EFFECTIVE DATE: April 1, 2025
+REVIEW DATE: March 31, 2026
+OWNER: Chief Compliance Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy ensures that Regional Community Bank conducts business fairly, transparently, and in compliance with all applicable consumer protection laws. It implements requirements of the Truth in Lending Act (TILA/Reg Z), Truth in Savings Act (TISA), Equal Credit Opportunity Act (ECOA), Fair Housing Act (FHA), and CFPB's UDAAP standards.
+
+=============================================================
+2. FAIR AND TRANSPARENT PRODUCT DISCLOSURE
+=============================================================
+2.1 Loan Products (TILA/Reg Z):
+    (a) All loan disclosures must provide the Annual Percentage Rate (APR), finance charge, amount financed, and total of payments;
+    (b) Loan Estimate must be provided within 3 business days of mortgage application;
+    (c) Closing Disclosure must be provided at least 3 business days before mortgage closing;
+    (d) Right of Rescission: For home equity products, customers have 3 business days to rescind.
+
+2.2 Deposit Products (TISA/Reg DD):
+    (a) Annual Percentage Yield (APY) must be disclosed for all interest-bearing accounts;
+    (b) Account terms and fee schedules must be provided at account opening;
+    (c) Changes to terms that adversely affect customers require 30 days advance written notice.
+
+2.3 Credit Cards (CARD Act):
+    (a) 45 days advance notice required for significant changes to credit card terms;
+    (b) Over-limit fees may only be charged if customer has opted in;
+    (c) Minimum payment disclosure required on each billing statement;
+    (d) Payments must be applied to highest-rate balances first when minimum payment is exceeded.
+
+=============================================================
+3. COMPLAINT MANAGEMENT
+=============================================================
+3.1 The Bank maintains a formal complaint management process in accordance with CFPB guidance.
+3.2 Complaints must be acknowledged within 1 business day of receipt (5 calendar days for written complaints).
+3.3 Complaint resolution timelines:
+    - Standard complaints: Resolution within 15 business days;
+    - Complex complaints: Resolution within 30 business days with interim response at 15 days.
+3.4 Complaints involving potential UDAAP violations must be escalated to Compliance within 2 business days.
+3.5 CFPB portal complaints: Response to CFPB required within 15 calendar days; final response within 60 days.
+3.6 Complaint trends must be analyzed monthly and reported to the Compliance Committee quarterly.
+
+=============================================================
+4. FAIR LENDING
+=============================================================
+4.1 The Bank prohibits discrimination in any credit transaction on the basis of race, color, religion, national origin, sex, marital status, age, familial status, disability, or any other protected characteristic under applicable law.
+4.2 Underwriting criteria must be based solely on creditworthiness factors documented in the Bank's credit policy.
+4.3 Annual Fair Lending Risk Assessment must be conducted by Compliance.
+4.4 Comparative file review: Compliance must conduct annual comparative file review of approved and denied applications to detect disparities.
+4.5 Disparate impact analysis on credit decisions must be conducted annually using regression analysis or equivalent methodology.
+
+=============================================================
+5. SALES PRACTICES
+=============================================================
+5.1 Employees are prohibited from:
+    (a) Opening accounts without customer knowledge or consent;
+    (b) Moving funds between customer accounts without authorization;
+    (c) Applying for products on behalf of customers without their explicit consent;
+    (d) Misrepresenting product features, fees, or terms to incentivize sales.
+5.2 Sales incentive programs must be reviewed by Compliance before implementation to assess UDAAP risk.
+5.3 Employee sales incentive structures must not reward product referrals in a way that creates pressure to engage in unsolicited or unauthorized account openings.
+
+=============================================================
+6. ELDER AND VULNERABLE CUSTOMER PROTECTION
+=============================================================
+6.1 Employees must complete training on elder financial exploitation recognition annually.
+6.2 Indicators of elder financial exploitation include: large, unusual cash withdrawals; new person accompanying elderly customer; customer appears confused or fearful.
+6.3 Suspected elder financial exploitation must be reported to Compliance within 1 business day. State adult protective services reporting is required in jurisdictions where the Bank operates.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v1.5 (Apr 2025): Added elder financial exploitation reporting requirement; updated CFPB portal timelines.
+v1.4 (Jan 2024): Updated Reg Z disclosure timelines.

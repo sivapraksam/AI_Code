@@ -1,0 +1,84 @@
+DOCUMENT ID: POL-TRN-016
+TITLE: Compliance Training and Competency Policy
+VERSION: 1.4
+EFFECTIVE DATE: January 1, 2025
+REVIEW DATE: December 31, 2025
+OWNER: Chief Compliance Officer / Chief Human Resources Officer
+CLASSIFICATION: Internal — General
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy establishes the mandatory compliance training requirements for all employees of Regional Community Bank. It ensures that employees have the knowledge and skills required to fulfill their compliance obligations and comply with regulatory training mandates.
+
+=============================================================
+2. MANDATORY TRAINING REQUIREMENTS
+=============================================================
+2.1 All Employees (Annual):
+    (a) Code of Ethics and Conduct — 2 hours;
+    (b) Anti-Money Laundering (AML) Awareness — 1.5 hours;
+    (c) Information Security Awareness — 1 hour;
+    (d) Data Privacy (GLBA/GDPR overview) — 1 hour;
+    (e) Workplace Safety and Harassment Prevention — 1 hour.
+
+2.2 Customer-Facing Staff (Annual, in addition to above):
+    (a) AML Red Flag Recognition — 2 hours;
+    (b) UDAAP and Fair Lending Awareness — 1.5 hours;
+    (c) Elder Financial Exploitation Recognition — 1 hour;
+    (d) Consumer Disclosure Requirements (TILA, TISA, Reg E) — 1.5 hours.
+
+2.3 Lending Staff (Annual, in addition to all-employee training):
+    (a) Fair Lending and ECOA — 2.5 hours;
+    (b) HMDA Data Collection and Reporting — 1.5 hours;
+    (c) RESPA and Mortgage Disclosures — 2 hours;
+    (d) CRA Awareness — 1 hour.
+
+2.4 Compliance, Risk, and Legal Staff (Annual, role-specific):
+    (a) Advanced AML/BSA — 4 hours;
+    (b) Regulatory Update Training (quarterly 30-minute updates);
+    (c) Role-specific training as assigned by CCO.
+
+2.5 New Employee Training:
+    All new employees must complete the full mandatory training curriculum within 30 days of hire, prior to being granted access to customer-facing systems.
+
+=============================================================
+3. TRAINING COMPLETION REQUIREMENTS
+=============================================================
+3.1 Minimum completion rates:
+    - Regulatory deadline-driven training: 100% completion required before effective date;
+    - Annual mandatory training: 100% completion required by December 31 each year;
+    - New hire training: 100% completion within 30 days of hire.
+3.2 Employees who fail to complete mandatory training within the required timeframe:
+    (a) Receive automated reminder on Day 1 overdue;
+    (b) Manager notification on Day 7 overdue;
+    (c) HR and CCO notification on Day 15 overdue;
+    (d) System access restriction for customer-facing systems on Day 30 overdue.
+
+=============================================================
+4. TRAINING DELIVERY
+=============================================================
+4.1 Training is delivered through the Bank's Learning Management System (LMS).
+4.2 Classroom or live virtual sessions are used for complex topics (advanced AML, fair lending).
+4.3 Training content is reviewed and updated annually by the Compliance team; immediate updates are issued for regulatory changes requiring urgent training.
+
+=============================================================
+5. RECORD KEEPING
+=============================================================
+5.1 Training completion records are maintained in the LMS for a minimum of 7 years.
+5.2 Training records are available to regulators upon request.
+5.3 Annual training completion report is included in the Board Compliance Report.
+
+=============================================================
+6. ASSESSMENT AND CERTIFICATION
+=============================================================
+6.1 Competency assessments (quizzes) with a minimum passing score of 80% are required for:
+    - AML (all employees);
+    - Fair Lending (lending staff);
+    - Advanced AML/BSA (Compliance and FinCrime staff).
+6.2 Failed assessments require re-training and re-assessment within 10 business days.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v1.4 (Jan 2025): Added system access restriction for non-compliant employees; updated new hire timeline.
+v1.3 (Jun 2024): Added HMDA training requirement for lending staff.

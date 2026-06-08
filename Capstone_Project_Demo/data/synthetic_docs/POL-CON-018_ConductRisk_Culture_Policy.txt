@@ -1,0 +1,88 @@
+DOCUMENT ID: POL-CON-018
+TITLE: Conduct Risk and Culture Policy
+VERSION: 1.2
+EFFECTIVE DATE: March 1, 2025
+REVIEW DATE: February 28, 2026
+OWNER: Chief Compliance Officer / Chief Human Resources Officer
+CLASSIFICATION: Internal — General
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy establishes the standards for conduct risk management and ethical culture at Regional Community Bank. Conduct risk is defined as the risk that employee behavior leads to unfair customer outcomes, market misconduct, or regulatory violations. A strong conduct culture reduces the likelihood and severity of conduct failures.
+
+=============================================================
+2. CONDUCT RISK PRINCIPLES
+=============================================================
+2.1 The Bank's Conduct Risk principles are:
+    (a) Customer First: All employees prioritize fair customer outcomes in their decisions;
+    (b) Integrity: Employees act honestly and transparently;
+    (c) Accountability: Employees take responsibility for their actions and their impact;
+    (d) Collaboration: Employees support colleagues in maintaining high conduct standards;
+    (e) Courage: Employees speak up when they observe conduct concerns.
+
+2.2 These principles are embedded in performance objectives, hiring criteria, and promotion decisions.
+
+=============================================================
+3. CONDUCT RISK INDICATORS
+=============================================================
+3.1 The Compliance function monitors the following conduct risk indicators quarterly:
+    (a) Sales incentive program participation and outcome analysis;
+    (b) Customer complaint volumes and themes (especially product misrepresentation claims);
+    (c) Whistleblower report volume and theme analysis;
+    (d) Employee survey results on culture and ethics;
+    (e) Staff turnover in control functions;
+    (f) Policy exceptions granted by volume and business line;
+    (g) Internal fraud loss events.
+3.2 Conduct Risk Indicator results are reported to the Compliance Committee and Board semi-annually.
+
+=============================================================
+4. COMPENSATION AND INCENTIVES
+=============================================================
+4.1 The Bank's compensation framework incorporates conduct risk criteria:
+    (a) All incentive compensation programs must be reviewed by Compliance and HR before launch;
+    (b) Compensation for customer-facing staff must include a conduct modifier: misconduct findings can reduce or eliminate variable compensation;
+    (c) Clawback provisions apply to senior management variable compensation for up to 3 years following a conduct event.
+4.2 The Compensation Committee of the Board reviews the Bank's incentive compensation risk annually.
+
+=============================================================
+5. ACCOUNTABILITY AND SENIOR MANAGER RESPONSIBILITY
+=============================================================
+5.1 Senior managers (VP and above) are held accountable for conduct within their areas of responsibility.
+5.2 Conduct Accountability Statements are required for all senior managers, documenting their specific responsibilities.
+5.3 Material conduct failures within a senior manager's area may result in:
+    (a) Individual accountability review by the Compliance Committee;
+    (b) Compensation reduction or clawback;
+    (c) Enhanced supervisory requirements;
+    (d) Regulatory referral if legally required.
+
+=============================================================
+6. SPEAKING UP — CULTURE OF CHALLENGE
+=============================================================
+6.1 The Bank actively promotes a "speak up" culture where employees at all levels are encouraged to raise conduct concerns without fear of retaliation.
+6.2 Managers must demonstrate that challenges from team members are welcomed and addressed.
+6.3 Anonymous survey results indicating a deterioration in speak-up culture trigger a Conduct Risk Committee review.
+
+=============================================================
+7. CONFLICTS OF INTEREST
+=============================================================
+7.1 Employees must disclose actual or potential conflicts of interest to their manager and HR/Compliance.
+7.2 Categories of conflicts requiring disclosure:
+    (a) Outside employment or business activities;
+    (b) Financial interests in customers, vendors, or competitors;
+    (c) Personal relationships with customers that could influence business decisions;
+    (d) Receipt of gifts or hospitality above the Bank's threshold ($50 per incident; $150 per calendar year from any single source).
+7.3 Undisclosed conflicts of interest are a disciplinary matter.
+
+=============================================================
+8. CONDUCT RISK TRAINING
+=============================================================
+8.1 Annual Code of Ethics training (mandatory for all employees).
+8.2 Conduct Risk Awareness training for all managers (annual, 2 hours).
+8.3 Senior management conduct risk training (biennial, 4 hours, facilitated session).
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v1.2 (Mar 2025): Added conduct risk indicators dashboard; updated clawback provisions.
+v1.1 (Jan 2024): Added compensation modifier framework.

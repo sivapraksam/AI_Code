@@ -1,0 +1,82 @@
+DOCUMENT ID: POL-LQD-007
+TITLE: Liquidity Risk Management Policy
+VERSION: 2.1
+EFFECTIVE DATE: March 1, 2025
+REVIEW DATE: February 28, 2026
+OWNER: Chief Risk Officer / Treasurer
+CLASSIFICATION: Internal — Confidential
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy governs the identification, measurement, monitoring, and control of liquidity risk at Regional Community Bank. It incorporates requirements from the Basel III Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR), FFIEC guidance on liquidity risk, and the Bank's Risk Appetite Statement.
+
+=============================================================
+2. LIQUIDITY RISK APPETITE
+=============================================================
+2.1 The Bank shall maintain a minimum Liquidity Coverage Ratio (LCR) of 100% at all times.
+2.2 The Bank shall maintain a minimum Net Stable Funding Ratio (NSFR) of 100% at all times.
+2.3 The Bank's internal liquidity buffer target is 15% of total deposits above the regulatory LCR minimum.
+2.4 The Bank shall maintain access to contingency funding sources equivalent to a minimum of 20% of total uninsured deposits.
+
+=============================================================
+3. LIQUIDITY COVERAGE RATIO (LCR)
+=============================================================
+3.1 LCR = High-Quality Liquid Assets (HQLA) / Total Net Cash Outflows over 30-day stress period ≥ 100%.
+3.2 HQLA Classification:
+    - Level 1 (no haircut): Cash, central bank reserves, qualifying government securities;
+    - Level 2A (15% haircut): Agency securities, qualifying covered bonds (up to 40% of HQLA);
+    - Level 2B (25%–50% haircut): Certain RMBS, corporate bonds (up to 15% of HQLA).
+3.3 LCR must be calculated daily and reported to the Asset-Liability Management Committee (ALCO) weekly.
+3.4 LCR breach of the 100% minimum triggers immediate escalation to ALCO and CRO.
+
+=============================================================
+4. NET STABLE FUNDING RATIO (NSFR)
+=============================================================
+4.1 NSFR = Available Stable Funding (ASF) / Required Stable Funding (RSF) ≥ 100%.
+4.2 NSFR must be calculated monthly and reported to ALCO.
+4.3 NSFR below 105% triggers an early warning review of the funding profile.
+
+=============================================================
+5. FUNDING CONCENTRATION LIMITS
+=============================================================
+5.1 Maximum reliance on wholesale funding: 25% of total liabilities;
+5.2 Maximum reliance on a single wholesale funding counterparty: 5% of total liabilities;
+5.3 Maximum reliance on brokered deposits: 15% of total deposits;
+5.4 Uninsured deposit concentration must be reported monthly to ALCO.
+
+=============================================================
+6. CONTINGENCY FUNDING PLAN (CFP)
+=============================================================
+6.1 The Bank maintains a Contingency Funding Plan (CFP) for stress scenarios.
+6.2 Stress scenarios modeled in the CFP:
+    - Institution-specific stress: Run on deposits, credit rating downgrade;
+    - Market-wide stress: Financial market disruption, economic recession;
+    - Combined stress: Combination of institution and market-wide events.
+6.3 The CFP identifies the following contingency funding sources:
+    (a) Federal Home Loan Bank (FHLB) advances (pre-arranged credit line);
+    (b) Federal Reserve Discount Window;
+    (c) Correspondent bank lines of credit;
+    (d) Brokered CD capacity;
+    (e) Available-for-sale securities portfolio liquidation.
+6.4 The CFP must be tested annually and updated within 90 days of significant changes to the balance sheet.
+
+=============================================================
+7. ALCO GOVERNANCE
+=============================================================
+7.1 The Asset-Liability Management Committee (ALCO) meets monthly.
+7.2 ALCO receives and reviews: LCR report, NSFR report, funding concentration analysis, interest rate risk report, and capital adequacy summary.
+7.3 Emergency ALCO meetings may be convened within 24 hours at the request of the Treasurer or CRO.
+
+=============================================================
+8. STRESS TESTING
+=============================================================
+8.1 Liquidity stress tests shall be conducted quarterly using internal stress scenarios.
+8.2 Stress horizons: 7-day, 30-day, and 90-day survival periods.
+8.3 The Bank must be able to demonstrate survival over a 30-day severe stress period with no external support.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v2.1 (Mar 2025): Updated NSFR early warning trigger; added CFP testing requirement.
+v2.0 (Jan 2024): Major revision to incorporate NSFR requirements.

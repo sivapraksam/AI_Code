@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Q001",
+    "question": "What are the SAR filing thresholds and deadline requirements under the AML policy?",
+    "ground_truth": "Under POL-AML-001 Section 4, a SAR must be filed when transactions involve $5,000 or more with a known/suspected violation, or $25,000 or more with no identified suspect. SARs must be filed within 30 calendar days of initial detection of suspicious activity, with a possible 30-day extension (60 days maximum). SAR filings are confidential and employees are prohibited from disclosing their existence (tipping-off prohibition).",
+    "source_documents": ["POL-AML-001_AntiMoneyLaundering_Policy.txt"]
+  },
+  {
+    "id": "Q002",
+    "question": "What are the minimum capital ratio requirements under Basel III for the bank?",
+    "ground_truth": "Per REG-BUL-001, the minimum capital requirements are: CET1 ratio of 4.5% (with the 2.5% Capital Conservation Buffer, the effective floor is 7.0%, internal target 9.5%); Tier 1 Capital Ratio minimum 6.0% (effective floor 8.5% with CCB, internal target 11.0%); Total Capital Ratio minimum 8.0% (effective floor 10.5% with CCB, internal target 13.0%); Leverage Ratio minimum 4.0% of average total consolidated assets.",
+    "source_documents": ["REG-BUL-001_Basel3_CapitalAdequacy_Bulletin.txt"]
+  },
+  {
+    "id": "Q003",
+    "question": "What Enhanced Due Diligence requirements apply to high-risk customers including PEPs?",
+    "ground_truth": "Per POL-KYC-002 Section 5, high-risk customers require: source of wealth documentation, source of funds documentation, senior management approval (CCO or Deputy), adverse media search from at least two independent sources, and expected transaction volume documentation. For PEPs specifically: immediate family members are treated as PEPs, former PEPs retain PEP status for 12 months post-departure, and PEP accounts require annual senior management re-approval.",
+    "source_documents": ["POL-KYC-002_KnowYourCustomer_CDD_Policy.txt"]
+  },
+  {
+    "id": "Q004",
+    "question": "What were the key audit findings from the Q1 2025 AML program review?",
+    "ground_truth": "Per AUD-FND-001, the Q1 2025 AML review found three issues: (1) HIGH finding: SAR filing timeliness failures — 23.4% (11/47) of SARs were filed more than 30 days after detection, average delay 47 days; remediation target June 30, 2025. (2) MEDIUM finding: Incomplete EDD files — 28.6% (8/28) of high-risk customer files missing required EDD elements including source of wealth and senior management approval. (3) LOW finding: AML training completion gap of 94.2% (vs 100% required). Overall program rating was NEEDS IMPROVEMENT.",
+    "source_documents": ["AUD-FND-001_Q1_2025_AML_Audit_Findings.txt"]
+  },
+  {
+    "id": "Q005",
+    "question": "What are the data retention periods for customer account records and transaction records under the data privacy policy?",
+    "ground_truth": "Per POL-DPR-005 Section 3.1, the retention periods are: customer account records — 7 years after account closure; transaction records — 7 years from transaction date; approved loan application data — 7 years after loan maturity; declined loan applications — 2 years from application date; employee records — 7 years after employment end; marketing consent records — 3 years from last customer interaction; CCTV footage — 30 days unless under investigation; audit logs — 3 years. Data must be securely deleted or anonymized upon expiry.",
+    "source_documents": ["POL-DPR-005_DataPrivacy_GDPR_Policy.txt"]
+  },
+  {
+    "id": "Q006",
+    "question": "What are the fraud escalation procedures for losses above $500,000?",
+    "ground_truth": "Per POL-FRD-009 Section 4.1, for fraud losses above $500,000: the Head of Financial Crimes, CRO, and CEO must be notified within 30 minutes; law enforcement referral is required; Board notification is required at the next meeting. For losses above $1,000,000 involving an employee: immediate suspension of the employee and notification to the Board Chair is required, plus FBI referral within 24 hours.",
+    "source_documents": ["POL-FRD-009_FraudRisk_Management_Policy.txt"]
+  },
+  {
+    "id": "Q007",
+    "question": "What are the cybersecurity patch management timelines for critical vulnerabilities?",
+    "ground_truth": "Per POL-CYB-006 Section 4.2, the patch application timelines are: Critical vulnerabilities (CVSS 9.0-10.0) must be patched within 48 hours; High (CVSS 7.0-8.9) within 7 days; Medium (CVSS 4.0-6.9) within 30 days; Low (CVSS 0.1-3.9) within 90 days. Unpatched critical vulnerabilities after the deadline require Risk Acceptance approved by the CISO.",
+    "source_documents": ["POL-CYB-006_Cybersecurity_Framework_Policy.txt"]
+  },
+  {
+    "id": "Q008",
+    "question": "What Tier 1 critical vendor due diligence requirements apply under the third-party risk management policy?",
+    "ground_truth": "Per POL-TPM-008 Section 3.1, Tier 1 (Critical) vendor due diligence requires: financial viability assessment (3 years audited financials); SOC 1 Type II and SOC 2 Type II reports; business continuity and disaster recovery documentation and test results; cybersecurity questionnaire and penetration testing summary; regulatory compliance certifications (PCI-DSS, ISO 27001); sub-contractor identification and risk assessment; legal review of contract and data processing agreement; and on-site assessment for vendors handling more than 1 million customer records.",
+    "source_documents": ["POL-TPM-008_ThirdPartyRisk_Management_Policy.txt"]
+  },
+  {
+    "id": "Q009",
+    "question": "What whistleblower protections and reporting channels are available to employees?",
+    "ground_truth": "Per POL-WBS-010, employees can report concerns through: Ethics Hotline (24/7, third-party operated), Ethics Online Portal (anonymous submission available), directly to the General Counsel or Chief Ethics Officer, to the Board Audit Committee Chair for concerns involving senior management, or to external regulators (SEC, CFPB, OCC, FinCEN). The Bank strictly prohibits retaliation including termination, demotion, suspension, or harassment. Supervisors who retaliate face disciplinary action up to termination. Reports are acknowledged within 5 business days.",
+    "source_documents": ["POL-WBS-010_Whistleblower_Ethics_Policy.txt"]
+  },
+  {
+    "id": "Q010",
+    "question": "What are the minimum Liquidity Coverage Ratio requirements and what happens when LCR falls below 100%?",
+    "ground_truth": "Per POL-LQD-007 Section 3, the Bank must maintain a minimum LCR of 100% at all times. LCR equals High-Quality Liquid Assets divided by total net cash outflows over a 30-day stress period. LCR must be calculated daily and reported to ALCO weekly. A breach of the 100% minimum triggers immediate escalation to ALCO and the CRO. The bank also maintains an internal liquidity buffer target of 15% of total deposits above the regulatory LCR minimum.",
+    "source_documents": ["POL-LQD-007_LiquidityRisk_Management_Policy.txt"]
+  }
+]

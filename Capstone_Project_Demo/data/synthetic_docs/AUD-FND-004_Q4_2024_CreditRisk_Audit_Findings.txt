@@ -1,0 +1,71 @@
+DOCUMENT ID: AUD-FND-004
+TITLE: Audit Finding Report — Q4 2024 Credit Risk and Loan Portfolio Review
+AUDIT PERIOD: October 1, 2024 – December 31, 2024
+REPORT DATE: January 30, 2025
+CLASSIFICATION: Internal — Strictly Confidential
+PREPARED BY: Internal Audit Department
+DISTRIBUTION: Board Audit Committee, CEO, CCO, CRO, Chief Credit Officer
+
+=============================================================
+EXECUTIVE SUMMARY
+=============================================================
+Internal Audit conducted a comprehensive credit risk and loan portfolio review in Q4 2024. Scope included: underwriting standard adherence, covenant monitoring, CECL allowance adequacy, loan classification accuracy, and concentration risk reporting.
+
+Overall Credit Risk Program Rating: SATISFACTORY
+
+Two findings were identified: one MEDIUM and one LOW.
+
+=============================================================
+FINDING AUD-2024-Q4-001 (MEDIUM)
+TITLE: Commercial Loan Annual Review Backlog
+=============================================================
+Condition:
+Testing of commercial loan relationships with outstanding balances above $1,000,000 revealed that 18 out of 127 (14.2%) relationships had annual credit reviews that were overdue by more than 60 days as of December 31, 2024. The average days overdue was 78 days.
+
+Criteria:
+POL-CRM-003, Section 5.2 requires annual credit reviews for all commercial relationships with outstanding balances above $1,000,000. OCC guidance (OCC Handbook, Commercial Lending) requires timely annual reviews to support accurate loan classification.
+
+Cause:
+The Credit Analysis team experienced a 25% increase in new commercial loan origination volume in H2 2024, which consumed capacity previously allocated to annual reviews. No contingency plan was in place to manage the review backlog.
+
+Effect / Risk:
+Delayed annual reviews may result in failure to identify deteriorating credit quality in a timely manner, leading to inaccurate loan classifications and inadequate provisioning under CECL.
+
+Management Response:
+Chief Credit Officer to hire 2 additional Commercial Credit Analysts (Q1 2025 budget approved). Interim: Outsourced credit analysis provider engaged for backlog clearance; all 18 overdue reviews to be completed by March 31, 2025.
+
+Target Remediation Date: March 31, 2025
+Responsible Owner: Chief Credit Officer
+
+=============================================================
+FINDING AUD-2024-Q4-002 (LOW)
+TITLE: Loan Covenant Breach Reporting Delay
+=============================================================
+Condition:
+A review of covenant monitoring records identified 3 instances where loan covenant breaches were reported to the Credit Risk Committee more than 5 business days after detection (maximum delay: 9 business days), contrary to POL-CRM-003, Section 6.2.
+
+Criteria:
+POL-CRM-003, Section 6.2 requires covenant violations to be reported to the Credit Risk Committee within 5 business days of detection.
+
+Cause:
+Covenant monitoring is performed in a spreadsheet-based system that lacks automated alert generation. Relationship managers are responsible for escalating breaches manually.
+
+Management Response:
+Credit Operations to implement automated covenant breach alerts in the loan management system by June 30, 2025. Interim: Enhanced manual review process implemented; Relationship Managers reminded of reporting obligation.
+
+Target Remediation Date: June 30, 2025
+Responsible Owner: Chief Credit Officer / Head of Credit Operations
+
+=============================================================
+POSITIVE OBSERVATIONS
+=============================================================
+Internal Audit noted the following areas of strength:
+1. CECL ACL methodology documentation was comprehensive and well-supported.
+2. Concentration risk reporting to ALCO was timely and complete.
+3. Credit decision authority was consistently followed in all 45 credit approvals sampled.
+4. No exceptions to credit policy underwriting standards were identified in the retail mortgage sample.
+
+=============================================================
+FOLLOW-UP
+=============================================================
+Internal Audit will validate remediation of both findings in the Q2 2025 credit follow-up review.

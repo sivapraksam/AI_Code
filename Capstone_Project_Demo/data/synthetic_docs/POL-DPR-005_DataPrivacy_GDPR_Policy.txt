@@ -1,0 +1,82 @@
+DOCUMENT ID: POL-DPR-005
+TITLE: Data Privacy and GDPR Compliance Policy
+VERSION: 3.0
+EFFECTIVE DATE: May 1, 2025
+REVIEW DATE: April 30, 2026
+OWNER: Data Protection Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE AND SCOPE
+=============================================================
+This policy governs the collection, processing, storage, and transfer of personal data at Regional Community Bank. It applies to all employees, contractors, and third-party processors handling personal data of EU/EEA data subjects (GDPR), California residents (CCPA), and all customer personal data subject to Gramm-Leach-Bliley Act (GLBA) requirements.
+
+=============================================================
+2. LAWFUL BASIS FOR PROCESSING
+=============================================================
+2.1 The Bank shall process personal data only when a lawful basis exists:
+    (a) Contract: Processing necessary to perform a contract with the data subject;
+    (b) Legal obligation: Processing required by applicable law;
+    (c) Legitimate interest: Processing necessary for legitimate interests of the Bank, provided such interests are not overridden by the data subject's rights;
+    (d) Consent: Where no other lawful basis applies, explicit consent must be obtained.
+2.2 Special categories of personal data (health, racial/ethnic origin, etc.) require explicit consent or another Schedule 1 condition.
+
+=============================================================
+3. DATA RETENTION PERIODS
+=============================================================
+3.1 The following retention periods apply:
+    - Customer account records: 7 years after account closure;
+    - Transaction records: 7 years from transaction date;
+    - Loan application data (approved): 7 years after loan maturity;
+    - Loan application data (declined): 2 years from application date;
+    - Employee records: 7 years after employment end;
+    - Marketing consent records: 3 years from last customer interaction;
+    - CCTV footage: 30 days unless subject to investigation;
+    - Audit logs and access records: 3 years.
+3.2 Data must be securely deleted or anonymized upon expiry of retention period.
+3.3 A Data Retention Schedule shall be maintained by the Data Protection Officer and reviewed annually.
+
+=============================================================
+4. DATA SUBJECT RIGHTS
+=============================================================
+4.1 The Bank shall facilitate the following data subject rights:
+    (a) Right of Access (SAR): Data subjects may request access to their personal data. The Bank must respond within 30 days of receipt; extension of 60 additional days permitted for complex requests with notification to data subject.
+    (b) Right to Rectification: Inaccurate personal data must be corrected without undue delay.
+    (c) Right to Erasure ("Right to Be Forgotten"): Available where data is no longer necessary, consent is withdrawn, or processing is unlawful — subject to legal retention obligations.
+    (d) Right to Data Portability: Data provided by consent or contract must be provided in machine-readable format.
+    (e) Right to Object: Data subjects may object to processing based on legitimate interest, including direct marketing.
+4.2 All Data Subject Access Requests (DSARs) must be logged in the DSAR register within 1 business day of receipt and responded to within the statutory deadline.
+
+=============================================================
+5. DATA BREACH NOTIFICATION
+=============================================================
+5.1 Personal data breaches must be:
+    (a) Internally reported to the Data Protection Officer within 4 hours of discovery;
+    (b) Assessed for notification threshold within 12 hours;
+    (c) Reported to the relevant supervisory authority (e.g., ICO for UK/EU) within 72 hours if likely to result in risk to individuals' rights and freedoms;
+    (d) Notified to affected individuals without undue delay if high risk to their rights and freedoms.
+5.2 All breaches, even those not meeting the notification threshold, must be documented in the Breach Register.
+
+=============================================================
+6. DATA TRANSFERS
+=============================================================
+6.1 Personal data of EU/EEA data subjects must not be transferred to countries outside the EU/EEA without:
+    (a) An adequacy decision from the European Commission; or
+    (b) Appropriate safeguards such as Standard Contractual Clauses (SCCs) or Binding Corporate Rules.
+6.2 All cross-border data transfers must be documented in the Records of Processing Activities (RoPA).
+
+=============================================================
+7. DATA PROTECTION IMPACT ASSESSMENT (DPIA)
+=============================================================
+7.1 A DPIA is mandatory before processing likely to result in high risk, including:
+    (a) Large-scale processing of special category data;
+    (b) Systematic monitoring of a publicly accessible area;
+    (c) New AI/ML-based automated decision-making affecting individuals.
+7.2 DPIAs must be reviewed and approved by the Data Protection Officer before processing commences.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v3.0 (May 2025): Added CCPA alignment; extended DSAR response timeline guidance; new AI/DPIA requirement.
+v2.9 (Jan 2024): Updated breach notification to 72-hour GDPR requirement.
+v2.8 (Jun 2023): Revised data retention schedule for loan applications.

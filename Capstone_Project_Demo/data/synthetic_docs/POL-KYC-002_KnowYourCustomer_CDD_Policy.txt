@@ -1,0 +1,104 @@
+DOCUMENT ID: POL-KYC-002
+TITLE: Know Your Customer (KYC) & Customer Due Diligence Policy
+VERSION: 2.5
+EFFECTIVE DATE: March 1, 2025
+REVIEW DATE: February 28, 2026
+OWNER: Head of Compliance Operations
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE AND SCOPE
+=============================================================
+This policy establishes the standards for Know Your Customer (KYC) and Customer Due Diligence (CDD) at Regional Community Bank ("the Bank"). It implements the requirements of FinCEN's Customer Due Diligence Rule (31 CFR Part 1010, 1020) and the Bank Secrecy Act. The policy applies to all new customer relationships and periodic reviews of existing relationships.
+
+=============================================================
+2. CUSTOMER IDENTIFICATION PROGRAM (CIP)
+=============================================================
+2.1 Before opening any account, the Bank must collect the following minimum information:
+    For Individuals:
+    (a) Full legal name;
+    (b) Date of birth;
+    (c) Residential address (P.O. Box not acceptable as sole address);
+    (d) Government-issued identification number (SSN for U.S. persons; passport/ITIN for non-U.S. persons).
+
+    For Legal Entities:
+    (a) Legal name and any trade names (DBA);
+    (b) Principal place of business address;
+    (c) Employer Identification Number (EIN);
+    (d) Beneficial ownership information (see Section 4).
+
+2.2 Identity Verification must be completed before account activation using:
+    - Documentary verification: government-issued photo ID, formation documents for entities;
+    - Non-documentary verification: credit bureau data, third-party verification services.
+
+2.3 Accounts must not be funded or used prior to satisfactory completion of CIP.
+
+=============================================================
+3. STANDARD DUE DILIGENCE (SDD)
+=============================================================
+3.1 Standard Due Diligence applies to Low and Medium risk customers.
+3.2 SDD requirements:
+    (a) Understand the nature and purpose of the customer relationship;
+    (b) Document the customer's anticipated transaction activity;
+    (c) Screen the customer against OFAC SDN list, PEP lists, and adverse media;
+    (d) Assign a risk rating based on customer type, geography, and products used.
+
+=============================================================
+4. BENEFICIAL OWNERSHIP REQUIREMENTS
+=============================================================
+4.1 For legal entity customers, the Bank must identify and verify the identity of:
+    (a) Each individual who owns 25% or more of the equity interests of the entity (Ownership Prong);
+    (b) One individual who controls, manages, or directs the entity (Control Prong).
+4.2 Beneficial ownership information must be re-verified when:
+    - The customer triggers an EDD review;
+    - There is a change in ownership or control structure;
+    - The annual periodic review is triggered for High-risk entities.
+4.3 Beneficial ownership certifications must be obtained using the Bank's standard certification form.
+
+=============================================================
+5. ENHANCED DUE DILIGENCE FOR HIGH-RISK CUSTOMERS
+=============================================================
+5.1 High-risk customers (as defined in POL-AML-001) require Enhanced Due Diligence:
+    (a) Source of Wealth documentation (e.g., audited financial statements, tax returns, inheritance documentation);
+    (b) Source of Funds documentation for significant transactions;
+    (c) Senior Management Approval: any High-risk account opening requires sign-off from the Chief Compliance Officer or Deputy;
+    (d) Adverse media search using at minimum two independent sources;
+    (e) Expected transaction volume and frequency documented and signed by the customer.
+5.2 For Politically Exposed Persons (PEPs):
+    (a) Immediate family members of PEPs are treated as PEPs themselves;
+    (b) Former PEPs retain PEP status for a minimum of 12 months post-departure from public role;
+    (c) PEP accounts require annual senior management re-approval.
+
+=============================================================
+6. ONGOING MONITORING AND PERIODIC REVIEW
+=============================================================
+6.1 Customer profiles shall be reviewed on the following schedule:
+    - High-risk customers: every 12 months;
+    - Medium-risk customers: every 24 months;
+    - Low-risk customers: every 36 months.
+6.2 Trigger-based reviews shall be conducted when:
+    (a) A SAR is filed on the customer;
+    (b) A change in customer business activity is detected;
+    (c) Transaction patterns deviate significantly from the established profile.
+6.3 During periodic review, all CDD information must be refreshed and re-verified as appropriate.
+
+=============================================================
+7. OFAC SCREENING
+=============================================================
+7.1 All customers must be screened against the OFAC Specially Designated Nationals (SDN) list at onboarding and on a daily basis thereafter.
+7.2 Positive OFAC matches must be escalated to Compliance within 1 business day.
+7.3 Accounts with confirmed OFAC matches must be frozen immediately pending legal review.
+
+=============================================================
+8. RECORD KEEPING
+=============================================================
+8.1 All CIP and CDD records shall be retained for 5 years after account closing.
+8.2 Beneficial ownership certification forms shall be retained for 5 years after account closing.
+8.3 OFAC screening records shall be retained for 5 years.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v2.5 (Mar 2025): Added trigger-based review requirement for SAR-linked accounts.
+v2.4 (Jan 2024): Updated PEP definition to include 12-month post-departure rule.
+v2.3 (Mar 2023): Aligned beneficial ownership with FinCEN 2023 guidance.

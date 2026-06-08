@@ -1,0 +1,74 @@
+DOCUMENT ID: REG-BUL-005
+TITLE: Regulatory Bulletin — OCC Guidance on Model Risk Management (OCC 2011-12 Update 2024)
+VERSION: 1.0
+ISSUE DATE: October 1, 2024
+EFFECTIVE DATE: Immediate
+ISSUING AUTHORITY: Risk & Regulatory Affairs Division
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. EXECUTIVE SUMMARY
+=============================================================
+This bulletin updates guidance on Model Risk Management (MRM) in light of the OCC's 2024 update to OCC Bulletin 2011-12 (SR 11-7 equivalent) and the OCC/Federal Reserve joint guidance on AI model governance. It is particularly relevant given the Bank's increased use of AI/ML models in credit scoring, fraud detection, and the new Compliance Knowledge Agent initiative.
+
+=============================================================
+2. MODEL DEFINITION
+=============================================================
+2.1 A "model" is defined as a quantitative method, system, or approach that applies statistical, economic, financial, or mathematical theories, techniques, and assumptions to process input data into quantitative estimates. Per updated OCC guidance, this definition explicitly includes:
+    (a) Statistical credit scoring models;
+    (b) Machine learning models used in fraud detection;
+    (c) Large Language Model (LLM)-based tools used in customer-facing or compliance decision support;
+    (d) Algorithmic pricing engines;
+    (e) Stress testing and IRR models.
+
+2.2 Key Insight: The Compliance Knowledge Agent (AI-driven Q&A system) is classified as a model under this definition and requires full Model Risk Management treatment.
+
+=============================================================
+3. MODEL RISK MANAGEMENT FRAMEWORK
+=============================================================
+3.1 Three Lines of Defense:
+    - First Line: Model owners and users — responsible for model development, documentation, and monitoring;
+    - Second Line: Model Risk Management (MRM) function — independent validation and ongoing oversight;
+    - Third Line: Internal Audit — periodic review of the MRM function.
+
+3.2 Model Lifecycle:
+    (a) Development and Documentation: Model must be documented with purpose, methodology, data sources, assumptions, limitations, and performance metrics;
+    (b) Validation: Independent validation prior to first use and at significant model changes;
+    (c) Approval: Model inventory entry and approval by MRM and relevant risk committee;
+    (d) Ongoing Monitoring: Regular performance monitoring against defined metrics;
+    (e) Annual Validation: At minimum annually for Tier 1 (High Materiality) models;
+    (f) Retirement: Models must be formally retired and documented when decommissioned.
+
+3.3 Model Tiering:
+    - Tier 1 (High Materiality): Models materially impacting capital calculations, credit decisions for portfolios above $100M, or customer-facing AI systems. Annual validation required.
+    - Tier 2 (Medium Materiality): Models supporting significant business processes. Biennial validation.
+    - Tier 3 (Low Materiality): Simple models or tools with limited impact. Validation every 3 years.
+
+=============================================================
+4. AI/ML-SPECIFIC REQUIREMENTS (2024 UPDATE)
+=============================================================
+4.1 Explainability: AI/ML models used in credit decisions must be explainable. Adverse action reasons must be specific and accurate, not generic.
+4.2 Bias Testing: All AI/ML models used in credit, pricing, or customer-facing decisions must be tested for disparate impact on protected classes annually.
+4.3 Data Governance: Training data must be documented, assessed for quality, and reviewed for historical bias.
+4.4 LLM/GenAI Specific Requirements:
+    (a) Hallucination Rate: LLM-based systems must have documented hallucination monitoring with defined acceptable thresholds;
+    (b) Retrieval Quality: For RAG-based systems, retrieval quality metrics (precision, recall) must be tracked;
+    (c) Faithfulness: Responses must be grounded in cited source documents; faithfulness metric ≥ 0.90 is the OCC benchmark for compliance-critical applications;
+    (d) Human Review: AI-generated compliance advice must be reviewed by a qualified compliance officer before acting (AI-Recommend / Human-Approve framework);
+    (e) Audit Trail: All queries and AI responses must be logged for audit purposes for a minimum of 3 years.
+
+=============================================================
+5. MODEL INVENTORY
+=============================================================
+5.1 The Bank maintains a complete model inventory in the Model Risk Registry.
+5.2 All models must be registered before first use.
+5.3 Models not in the registry are considered unauthorized and their use is prohibited.
+5.4 The MRM function reviews the model inventory quarterly.
+
+=============================================================
+6. REQUIRED ACTIONS
+=============================================================
+- Register Compliance Knowledge Agent in Model Risk Registry before deployment.
+- Complete Tier 1 validation of Compliance Knowledge Agent before production use.
+- Implement hallucination monitoring dashboard for all LLM-based tools.
+- Ensure AI-Recommend / Human-Approve workflow for all AI-generated compliance advice.

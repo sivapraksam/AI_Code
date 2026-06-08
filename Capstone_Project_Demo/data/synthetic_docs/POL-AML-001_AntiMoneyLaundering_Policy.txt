@@ -1,0 +1,100 @@
+DOCUMENT ID: POL-AML-001
+TITLE: Anti-Money Laundering (AML) Policy
+VERSION: 3.2
+EFFECTIVE DATE: January 1, 2025
+REVIEW DATE: December 31, 2025
+OWNER: Chief Compliance Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE AND SCOPE
+=============================================================
+This policy establishes the Anti-Money Laundering (AML) framework for Regional Community Bank (the "Bank"). It applies to all employees, contractors, and third-party agents who conduct business on behalf of the Bank. The policy aligns with the Bank Secrecy Act (BSA), the USA PATRIOT Act, FinCEN regulations, and FATF Recommendations.
+
+=============================================================
+2. DEFINITIONS
+=============================================================
+2.1 Money Laundering: The process of concealing the origins of illegally obtained money, typically by means of transfers involving foreign banks or legitimate businesses.
+2.2 Suspicious Activity: Any transaction or pattern of transactions that gives rise to reasonable suspicion of money laundering or terrorist financing.
+2.3 Structuring: Deliberately breaking up transactions to avoid currency reporting thresholds.
+
+=============================================================
+3. CUSTOMER RISK CLASSIFICATION
+=============================================================
+3.1 All customers shall be assigned a risk rating of Low, Medium, or High at onboarding.
+3.2 High-risk customer categories include:
+    (a) Politically Exposed Persons (PEPs) and their immediate family members;
+    (b) Customers in FATF high-risk or non-cooperative jurisdictions;
+    (c) Cash-intensive businesses (e.g., car washes, restaurants, convenience stores);
+    (d) Money service businesses (MSBs);
+    (e) Nonprofit organizations with international wire activity.
+3.3 Customer risk ratings shall be reviewed at minimum annually for High-risk customers, every two years for Medium-risk, and every three years for Low-risk customers.
+
+=============================================================
+4. SUSPICIOUS ACTIVITY REPORTING (SAR)
+=============================================================
+4.1 A Suspicious Activity Report (SAR) must be filed with FinCEN when the Bank knows, suspects, or has reason to suspect that a transaction or pattern of transactions:
+    (a) Involves funds derived from illegal activities;
+    (b) Is designed to evade BSA reporting requirements;
+    (c) Lacks a lawful purpose or is not the type of transaction the customer would normally conduct.
+4.2 SAR Filing Thresholds:
+    - Transactions of $5,000 or more involving a known or suspected violation.
+    - Transactions of $25,000 or more where no suspect can be identified.
+4.3 SARs must be filed within 30 calendar days of initial detection of suspicious activity.
+4.4 SAR filings are confidential. No employee may disclose the existence of a SAR to any person named in the SAR or to any other party (tipping-off prohibition).
+
+=============================================================
+5. CURRENCY TRANSACTION REPORTING (CTR)
+=============================================================
+5.1 A Currency Transaction Report (CTR) must be filed for any cash transaction exceeding $10,000 in a single business day, whether in multiple related transactions or one.
+5.2 CTRs must be filed within 15 calendar days following the transaction.
+5.3 Structuring transactions to avoid CTR filing is a federal crime and shall be reported as a SAR.
+
+=============================================================
+6. ENHANCED DUE DILIGENCE (EDD)
+=============================================================
+6.1 Enhanced Due Diligence is required for all High-risk customers and shall include:
+    (a) Source of funds and source of wealth documentation;
+    (b) Beneficial ownership verification for legal entities;
+    (c) Negative news screening against adverse media sources;
+    (d) Senior management approval for account opening;
+    (e) Increased transaction monitoring frequency.
+6.2 EDD reviews shall be conducted at minimum every 12 months for High-risk customers.
+
+=============================================================
+7. TRANSACTION MONITORING
+=============================================================
+7.1 The Bank employs automated transaction monitoring systems to detect suspicious patterns.
+7.2 Alert disposition must be completed within 30 days of alert generation.
+7.3 Alerts that cannot be resolved within 30 days must be escalated to the AML Compliance Manager.
+7.4 Key monitoring scenarios include:
+    - Rapid movement of large funds in and out of accounts (layering);
+    - Unusual wire transfer patterns inconsistent with customer profile;
+    - Cash deposits just below reporting thresholds (structuring indicators);
+    - Multiple accounts receiving funds then consolidating to one account.
+
+=============================================================
+8. TRAINING
+=============================================================
+8.1 All employees must complete AML training upon hire and annually thereafter.
+8.2 Customer-facing staff must complete enhanced AML training covering red flag recognition.
+8.3 Training completion records shall be maintained for a minimum of 5 years.
+
+=============================================================
+9. RECORD RETENTION
+=============================================================
+9.1 All AML-related records shall be retained for a minimum of 5 years from the date of the transaction or account closing.
+9.2 SAR filings and supporting documentation shall be retained for 5 years from the date of filing.
+
+=============================================================
+10. VIOLATIONS AND DISCIPLINARY ACTION
+=============================================================
+10.1 Violations of this policy may result in disciplinary action up to and including termination of employment.
+10.2 Criminal violations shall be referred to appropriate law enforcement authorities.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v3.2 (Jan 2025): Updated SAR thresholds per FinCEN guidance; added MSB category to high-risk.
+v3.1 (Jan 2024): Revised EDD requirements for PEPs.
+v3.0 (Jan 2023): Full policy revision to align with FinCEN 2022 AML reform rules.

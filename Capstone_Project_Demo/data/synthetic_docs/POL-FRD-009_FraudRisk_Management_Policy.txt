@@ -1,0 +1,89 @@
+DOCUMENT ID: POL-FRD-009
+TITLE: Fraud Risk Management Policy
+VERSION: 2.6
+EFFECTIVE DATE: January 1, 2025
+REVIEW DATE: December 31, 2025
+OWNER: Head of Financial Crimes
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy defines the Bank's approach to identifying, preventing, detecting, and responding to fraud risk across all product lines and channels. It covers internal fraud, external fraud, first-party fraud, and third-party fraud.
+
+=============================================================
+2. FRAUD RISK TAXONOMY
+=============================================================
+2.1 External Fraud:
+    - Account takeover (ATO) via phishing, credential stuffing;
+    - Card fraud: counterfeit, card-not-present (CNP), lost/stolen;
+    - Check fraud: counterfeit, forged endorsement, altered;
+    - Wire fraud: social engineering / business email compromise (BEC);
+    - Loan fraud: synthetic identity, first-party misrepresentation.
+
+2.2 Internal Fraud:
+    - Embezzlement and misappropriation of funds;
+    - Unauthorized account access or modification;
+    - Bribery and kickback schemes.
+
+=============================================================
+3. FRAUD DETECTION AND CONTROLS
+=============================================================
+3.1 Transaction Monitoring:
+    (a) Real-time fraud scoring is applied to all card transactions and ACH payments;
+    (b) Velocity rules are applied to detect unusual transaction patterns;
+    (c) High-risk wire transactions require dual approval above $50,000.
+
+3.2 Positive Pay:
+    - All commercial checking account customers with check volume above 50 checks/month are enrolled in Positive Pay;
+    - ACH Debit Block/Filter is offered to all commercial customers.
+
+3.3 Account Takeover Prevention:
+    - MFA is required for online banking enrollment changes (phone, email, address);
+    - Out-of-band verification is required for high-value domestic wires;
+    - International wire requests require 24-hour callback verification.
+
+=============================================================
+4. FRAUD INCIDENT ESCALATION PROCEDURES
+=============================================================
+4.1 Fraud Escalation Thresholds:
+    - Losses below $10,000: Branch Manager notification; documented in fraud log;
+    - Losses $10,000–$100,000: Financial Crimes team notification within 2 hours; investigation initiated within 24 hours;
+    - Losses $100,000–$500,000: Head of Financial Crimes and CRO notified within 1 hour; law enforcement referral considered;
+    - Losses above $500,000: Head of Financial Crimes, CRO, and CEO notified within 30 minutes; law enforcement referral required; Board notification at next meeting;
+    - Losses above $1,000,000 involving employee: Immediate suspension of employee and notification to Board Chair; FBI referral within 24 hours.
+
+4.2 SAR Filing for Fraud:
+    - Fraud-related SARs must be filed when the loss or attempted loss involves $5,000 or more and a suspect can be identified, or $25,000 or more regardless of suspect identification.
+    - SARs must be filed within 30 days of initial detection.
+
+4.3 Customer Notification:
+    - Customers must be notified of fraud on their accounts within 2 business days of discovery.
+
+=============================================================
+5. FRAUD INVESTIGATION
+=============================================================
+5.1 All fraud investigations above $25,000 must be conducted by the Financial Crimes Investigation team.
+5.2 Investigation files must be maintained securely and separately from the standard customer file.
+5.3 Fraud investigation findings must be documented and retained for 7 years.
+5.4 Evidence chain of custody must be maintained for cases referred to law enforcement.
+
+=============================================================
+6. RECOVERY AND RESTITUTION
+=============================================================
+6.1 Fraud losses must be reported to the appropriate insurance carrier within the policy's notification window (typically 30–60 days).
+6.2 Recovery efforts for external fraud are coordinated by the Financial Crimes team.
+6.3 Internal fraud recoveries may include civil litigation, fidelity bond claims, and regulatory referral.
+
+=============================================================
+7. FRAUD RISK REPORTING
+=============================================================
+7.1 Monthly Fraud Loss Report is submitted to the Credit Risk Committee and CRO.
+7.2 Quarterly Fraud Trend Analysis is provided to the Board Risk Committee.
+7.3 Annual Fraud Risk Assessment evaluates inherent fraud risks and control effectiveness.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v2.6 (Jan 2025): Added BEC wire fraud controls; updated escalation thresholds.
+v2.5 (Jul 2024): Added international wire callback requirement.

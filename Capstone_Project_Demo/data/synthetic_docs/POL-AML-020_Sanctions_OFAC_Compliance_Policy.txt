@@ -1,0 +1,81 @@
+DOCUMENT ID: POL-AML-020
+TITLE: Sanctions Compliance Policy (OFAC)
+VERSION: 2.4
+EFFECTIVE DATE: January 1, 2025
+REVIEW DATE: December 31, 2025
+OWNER: Chief Compliance Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE AND SCOPE
+=============================================================
+This policy establishes the sanctions compliance program of Regional Community Bank to ensure compliance with the regulations administered by the U.S. Treasury's Office of Foreign Assets Control (OFAC). It applies to all employees, contractors, and third-party agents acting on behalf of the Bank.
+
+=============================================================
+2. LEGAL FRAMEWORK
+=============================================================
+2.1 The Bank must comply with all OFAC sanctions programs including:
+    (a) Comprehensive country sanctions programs (Cuba, Iran, North Korea, Syria, Russia/Ukraine regions);
+    (b) List-based sanctions programs (SDN List, Consolidated Sanctions List);
+    (c) Secondary sanctions that may apply to non-U.S. persons dealing with sanctioned parties.
+2.2 Violations of OFAC regulations may result in civil monetary penalties (up to the greater of $356,579 per violation or twice the transaction value) and criminal prosecution.
+
+=============================================================
+3. SANCTIONS SCREENING
+=============================================================
+3.1 The Bank performs OFAC/sanctions screening:
+    (a) At customer onboarding for all new customers;
+    (b) Daily batch screening of the entire customer population against updated sanctions lists;
+    (c) Real-time screening of wire transfers and ACH payments;
+    (d) Ad hoc screening for unusual transaction patterns or geographic risk indicators.
+3.2 Screening is performed using an automated screening system updated within 24 hours of OFAC list changes.
+3.3 Screening system false positive rate: Target < 2% (to balance detection rate with operational efficiency).
+
+=============================================================
+4. POTENTIAL MATCH HANDLING
+=============================================================
+4.1 All potential OFAC matches must be reviewed by a trained sanctions compliance analyst within 2 business hours.
+4.2 Escalation of confirmed matches:
+    - Confirmed SDN match: Block/reject the transaction immediately; escalate to CCO within 30 minutes;
+    - Potential match (requires investigation): Place transaction on hold pending investigation (maximum 5 business days);
+    - OFAC license required: Do not proceed without a valid OFAC general or specific license.
+4.3 Blocked transactions must be reported to OFAC within 10 business days using OFAC Form TDF 90-22.50.
+4.4 Rejected transactions (non-U.S. person transactions involving sanctioned parties that are rejected and not blocked) must be reported to OFAC within 10 business days.
+
+=============================================================
+5. JURISDICTIONAL RISK
+=============================================================
+5.1 The Bank applies enhanced scrutiny to transactions involving:
+    (a) Countries subject to comprehensive OFAC sanctions (Cuba, Iran, North Korea, Syria);
+    (b) Crimea, Donetsk, and Luhansk regions of Ukraine (subject to Executive Order sanctions);
+    (c) FATF high-risk jurisdictions;
+    (d) Countries with significant terrorist financing risk as identified in FinCEN advisories.
+5.2 Correspondent bank relationships in high-risk jurisdictions require Senior Management approval and annual review.
+
+=============================================================
+6. SPECIALLY DESIGNATED NATIONALS (SDN) AND LIST MANAGEMENT
+=============================================================
+6.1 The OFAC SDN list and Consolidated Sanctions List are updated in the Bank's screening system within 24 hours of publication.
+6.2 Emergency list updates (e.g., urgent designation of a new SDN) must be applied within 1 business hour.
+6.3 The Sanctions Compliance team reviews OFAC FAQs, administrative decisions, and related regulatory guidance weekly.
+
+=============================================================
+7. RECORDKEEPING
+=============================================================
+7.1 Records of all blocked transactions, rejected transactions, and OFAC reporting must be retained for 5 years.
+7.2 Screening records and match disposition documentation must be retained for 5 years.
+7.3 OFAC licenses (general and specific) and related correspondence must be retained for 5 years after license expiration.
+
+=============================================================
+8. PENALTIES AND ENFORCEMENT
+=============================================================
+8.1 Intentional violations of OFAC regulations may result in criminal charges.
+8.2 Employees who knowingly facilitate transactions in violation of sanctions will face immediate termination and referral to law enforcement.
+8.3 The Bank maintains OFAC civil enforcement reserves commensurate with the sanctions risk profile.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v2.4 (Jan 2025): Updated civil penalty amounts; added secondary sanctions awareness section.
+v2.3 (Jun 2024): Added emergency list update 1-hour requirement.
+v2.2 (Jan 2024): Added Russia/Ukraine regional sanctions guidance.

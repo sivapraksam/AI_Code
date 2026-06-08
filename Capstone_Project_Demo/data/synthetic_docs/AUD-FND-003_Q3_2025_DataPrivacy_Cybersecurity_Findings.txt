@@ -1,0 +1,81 @@
+DOCUMENT ID: AUD-FND-003
+TITLE: Audit Finding Report — Q3 2025 Data Privacy & Cybersecurity Review
+AUDIT PERIOD: July 1, 2025 – September 30, 2025
+REPORT DATE: October 15, 2025
+CLASSIFICATION: Internal — Strictly Confidential
+PREPARED BY: Internal Audit Department
+DISTRIBUTION: Board Audit Committee, CEO, CISO, DPO, CRO
+
+=============================================================
+EXECUTIVE SUMMARY
+=============================================================
+Internal Audit conducted a combined Data Privacy and Cybersecurity review in Q3 2025. Scope included: data subject access request (DSAR) handling, breach notification procedures, patch management compliance, access control reviews, and third-party cybersecurity oversight.
+
+Overall Rating: NEEDS IMPROVEMENT
+
+Three findings identified: one CRITICAL, one HIGH, and one MEDIUM.
+
+=============================================================
+FINDING AUD-2025-Q3-001 (CRITICAL)
+TITLE: Critical Vulnerability Patch Compliance Failure
+=============================================================
+Condition:
+Vulnerability scan results from August 2025 identified 7 unpatched critical vulnerabilities (CVSS 9.0+) across 3 production servers that had exceeded the 48-hour remediation deadline by more than 30 days. The oldest unpatched critical vulnerability was 67 days overdue. No Risk Acceptance forms had been completed for any of these vulnerabilities.
+
+Criteria:
+POL-CYB-006, Section 4.2 requires critical vulnerabilities (CVSS 9.0–10.0) to be patched within 48 hours. Exceptions require CISO-approved Risk Acceptance documentation.
+
+Cause:
+The affected servers are legacy systems running a deprecated middleware version for which vendor patches require additional compatibility testing. No formal exception process was followed.
+
+Effect / Risk:
+Unpatched critical vulnerabilities on production servers expose the Bank to data breach, ransomware attack, and regulatory sanctions. The OCC has cited patch management failures as a significant supervisory concern in its 2025 guidance.
+
+Management Response:
+CISO to implement emergency patch testing environment by November 1, 2025. All 7 vulnerabilities to be remediated or have formal Risk Acceptance approved by October 31, 2025. Legacy server replacement project accelerated to Q1 2026.
+
+Target Remediation Date: October 31, 2025
+Responsible Owner: CISO / IT Operations Manager
+
+=============================================================
+FINDING AUD-2025-Q3-002 (HIGH)
+TITLE: DSAR Response Delays
+=============================================================
+Condition:
+The Bank received 23 DSARs in the review period. 6 out of 23 DSARs (26.1%) were not responded to within the 30-day statutory deadline (POL-DPR-005, Section 4.1). The average delay was 15 business days beyond the deadline. No extension notices were provided to data subjects in any of the delayed cases.
+
+Criteria:
+POL-DPR-005, Section 4.1 requires DSAR responses within 30 days, with an optional 60-day extension permissible only if the data subject is notified within the initial 30 days.
+
+Cause:
+DSAR intake is handled manually via a generic email inbox with no automated triage or tracking system. The DPO team lacks dedicated DSAR case management software.
+
+Effect / Risk:
+Failure to respond to DSARs within statutory timeframes is a breach of GDPR Article 12 and applicable data protection law. This exposes the Bank to regulatory fines (up to €20 million or 4% of annual global turnover under GDPR Art. 83) and reputational damage.
+
+Management Response:
+DPO to implement a DSAR case management system by December 31, 2025. Interim: dedicated DSAR email alias created with 24-hour acknowledgment SLA. All 6 overdue DSARs to be completed by October 31, 2025.
+
+Target Remediation Date: December 31, 2025
+Responsible Owner: Data Protection Officer
+
+=============================================================
+FINDING AUD-2025-Q3-003 (MEDIUM)
+TITLE: Quarterly Access Review Backlog for Privileged Accounts
+=============================================================
+Condition:
+The Q2 2025 privileged account access review was not completed. Of 145 privileged accounts, only 67 (46.2%) had been reviewed as of the Q3 audit date. Additionally, 3 privileged accounts belonging to former employees who were terminated in Q2 2025 remained active as of the audit date.
+
+Criteria:
+POL-CYB-006, Section 3.4 requires quarterly access reviews for privileged accounts. Section 3.5 requires privileged access to be revoked within 1 hour of termination notification.
+
+Management Response:
+IT Security to complete Q2 privileged access review by October 31, 2025. The 3 terminated employee accounts disabled immediately (October 15, 2025 — confirmed). Automated integration between HR system and PAM tool to be implemented by March 31, 2026.
+
+Target Remediation Date: March 31, 2026
+Responsible Owner: CISO / IT Security Manager
+
+=============================================================
+FOLLOW-UP
+=============================================================
+The CRITICAL finding (AUD-2025-Q3-001) will be subject to an emergency follow-up by November 15, 2025.

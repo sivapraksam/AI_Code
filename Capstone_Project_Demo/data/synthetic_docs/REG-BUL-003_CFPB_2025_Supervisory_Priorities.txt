@@ -1,0 +1,71 @@
+DOCUMENT ID: REG-BUL-003
+TITLE: Regulatory Bulletin — CFPB 2025 Supervisory Priorities: Fair Lending and UDAAP
+VERSION: 1.0
+ISSUE DATE: January 31, 2025
+EFFECTIVE DATE: Immediate
+ISSUING AUTHORITY: Regulatory Affairs Division
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This bulletin communicates the CFPB's published 2025 supervisory and enforcement priorities and their implications for Regional Community Bank's compliance program.
+
+=============================================================
+2. FAIR LENDING PRIORITIES
+=============================================================
+2.1 Redlining: The CFPB (jointly with DOJ and OCC) continues to prioritize redlining investigations. Banks must demonstrate that their Community Reinvestment Act (CRA) assessment areas are not drawn to exclude predominantly minority neighborhoods. The Bank must conduct an annual fair lending geospatial analysis to detect any potential redlining patterns.
+
+2.2 Pricing Discrimination: Loan pricing models and underwriting criteria will be tested for disparate impact on protected classes. If the Bank uses risk-based pricing, it must maintain documentation showing pricing differentials are based on legitimate credit factors and not correlated with race, national origin, sex, or other protected characteristics.
+
+2.3 Appraisal Bias: The CFPB and federal agencies have issued guidance on appraisal bias in mortgage lending. The Bank must implement a reconsideration of value (ROV) process for borrowers who believe their appraisal was affected by bias, and must document ROV outcomes.
+
+2.4 Equal Credit Opportunity Act (ECOA) Compliance:
+    - Adverse action notices must state specific reasons for denial.
+    - AI/ML-based credit decision models must be able to provide specific, accurate reasons for adverse actions.
+    - Time to respond to credit applications: Dodd-Frank/ECOA requires adverse action notice within 30 days of complete application.
+
+=============================================================
+3. UDAAP ENFORCEMENT TRENDS
+=============================================================
+3.1 Overdraft and NSF Fees: The CFPB has finalized rules limiting overdraft fees for large banks and expects community banks to "voluntarily" align. The Bank's current overdraft fee of $35 per item is under heightened scrutiny. Compliance must ensure:
+    (a) Overdraft program is clearly disclosed at account opening;
+    (b) Consumers have a meaningful opportunity to opt in for debit card overdraft coverage;
+    (c) No overdraft fee is charged when a transaction is authorized against a positive balance.
+
+3.2 Digital Advertising: Use of "pre-approved" or "guaranteed" language in digital marketing without proper qualification is UDAAP exposure. Marketing team must review all digital content annually.
+
+3.3 Chatbot and AI Customer Service: CFPB guidance (2024) indicates AI-driven customer service tools that provide inaccurate account information, or that are designed to steer consumers away from complaints, may constitute UDAAP violations.
+
+=============================================================
+4. SMALL BUSINESS LENDING (SECTION 1071) REQUIREMENTS
+=============================================================
+4.1 The Bank has 100+ small business loan originations annually and is subject to the CFPB's Section 1071 final rule.
+4.2 Data Collection Requirements (effective January 1, 2025):
+    - Application date and filing date;
+    - Loan type, purpose, and amount applied for;
+    - Action taken and date of action;
+    - Census tract of principal business;
+    - Gross annual revenue;
+    - Applicant's race, sex, ethnicity (collected separately from underwriting decision);
+    - LGBTQI+-owned business status.
+4.3 Data must be submitted to CFPB by March 31, 2026 for the 2025 calendar year.
+4.4 The Bank must maintain a firewall between Section 1071 demographic data and the underwriting process.
+
+=============================================================
+5. COMMUNITY REINVESTMENT ACT (CRA) UPDATE
+=============================================================
+5.1 The Revised CRA Rule (effective January 1, 2026 for most banks; January 1, 2027 for small banks) introduces:
+    - Retail Lending Test: evaluates origination volumes relative to deposit market share;
+    - Community Development Finance Test: evaluates dollar volume and impact of CD activities;
+    - Community Development Services Test: evaluates hours and activities.
+5.2 The Bank should begin data collection for the Retail Lending Test immediately to establish baselines.
+
+=============================================================
+6. REQUIRED ACTIONS
+=============================================================
+- Complete fair lending geospatial analysis by June 30, 2025.
+- Implement ROV process for appraisal bias by April 30, 2025.
+- Review overdraft program disclosures and opt-in processes by March 31, 2025.
+- Implement Section 1071 data collection systems by February 28, 2025.
+- Begin CRA Retail Lending Test data collection by April 1, 2025.

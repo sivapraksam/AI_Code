@@ -1,0 +1,80 @@
+DOCUMENT ID: POL-WBS-010
+TITLE: Whistleblower and Ethics Reporting Policy
+VERSION: 1.7
+EFFECTIVE DATE: June 1, 2024
+REVIEW DATE: May 31, 2025
+OWNER: General Counsel / Chief Ethics Officer
+CLASSIFICATION: Internal — General
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy establishes the Bank's commitment to maintaining an ethical workplace and providing employees, contractors, and third parties with protected channels to report concerns about suspected misconduct, violations of law, or breaches of Bank policy. It aligns with Section 806 of Sarbanes-Oxley (SOX), Dodd-Frank Section 922 (SEC Whistleblower Program), and FinCEN's AML whistleblower provisions.
+
+=============================================================
+2. PROTECTED DISCLOSURES
+=============================================================
+2.1 The following disclosures are protected under this policy:
+    (a) Violations of federal or state laws or regulations;
+    (b) Violations of Bank policies, including this Code of Ethics and Conduct;
+    (c) Suspected financial fraud, accounting irregularities, or misstatements;
+    (d) Suspected money laundering, terrorist financing, or BSA violations;
+    (e) Insider trading or market manipulation;
+    (f) Unsafe or unethical business practices;
+    (g) Workplace safety violations;
+    (h) Retaliation against another whistleblower.
+
+=============================================================
+3. REPORTING CHANNELS
+=============================================================
+3.1 Employees may report concerns through any of the following channels:
+    (a) Ethics Hotline: 1-800-XXX-XXXX (operated by independent third-party, available 24/7);
+    (b) Ethics Online Portal: https://ethics.intranet.bank (anonymous submission available);
+    (c) Direct report to the General Counsel or Chief Ethics Officer;
+    (d) Direct report to the Board Audit Committee Chair (for concerns involving senior management);
+    (e) External reporting directly to the SEC, CFPB, OCC, FinCEN, or other regulatory bodies.
+3.2 Anonymous reports are accepted and will be investigated to the extent possible.
+
+=============================================================
+4. NON-RETALIATION COMMITMENT
+=============================================================
+4.1 The Bank strictly prohibits retaliation against any individual who, in good faith:
+    (a) Reports a suspected violation through any channel;
+    (b) Participates in an investigation, hearing, or proceeding related to a reported concern;
+    (c) Refuses to participate in an activity that violates applicable law or Bank policy.
+4.2 Prohibited retaliatory actions include: termination, demotion, suspension, harassment, unfavorable performance reviews, or any other adverse employment action.
+4.3 Supervisors who engage in retaliation shall be subject to disciplinary action up to and including termination.
+4.4 Employees who believe they have been retaliated against should report immediately to the General Counsel or, if the concern involves the General Counsel, directly to the Board Audit Committee.
+
+=============================================================
+5. INVESTIGATION PROCESS
+=============================================================
+5.1 All reports received through any channel will be acknowledged within 5 business days.
+5.2 An initial assessment will be completed within 10 business days to determine the appropriate investigation team and scope.
+5.3 Investigations shall be conducted by qualified personnel independent of the subject of the complaint.
+5.4 Concerns involving members of senior management (VP and above) shall be escalated to the Board Audit Committee.
+5.5 Investigation outcomes shall be documented and retained for 7 years.
+5.6 Where permitted by law and practicable, the reporting individual will be informed of the general outcome of the investigation.
+
+=============================================================
+6. CONFIDENTIALITY
+=============================================================
+6.1 The identity of reporting individuals will be protected to the fullest extent permitted by law.
+6.2 Access to reports and investigation materials shall be restricted to those with a need to know.
+6.3 Disclosure of a reporter's identity without consent is prohibited, except where required by law.
+
+=============================================================
+7. EXTERNAL REGULATORY WHISTLEBLOWER PROGRAMS
+=============================================================
+7.1 Employees retain the right to report concerns directly to:
+    - SEC Whistleblower Office: Eligible for awards of 10–30% of sanctions above $1 million;
+    - CFPB Whistleblower Program;
+    - OCC Whistleblower Program;
+    - FinCEN AML Whistleblower Program: Awards available for original information leading to sanctions above $1 million.
+7.2 The Bank will not retaliate against any employee for reporting to a regulatory body, even if the Bank disagrees with the report.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v1.7 (Jun 2024): Added FinCEN AML whistleblower provisions per Anti-Money Laundering Act 2020.
+v1.6 (Jan 2024): Updated reporting channels to include anonymous portal.

@@ -1,0 +1,84 @@
+DOCUMENT ID: POL-CYB-006
+TITLE: Cybersecurity Framework and Information Security Policy
+VERSION: 2.3
+EFFECTIVE DATE: January 15, 2025
+REVIEW DATE: January 14, 2026
+OWNER: Chief Information Security Officer (CISO)
+CLASSIFICATION: Internal — Confidential
+
+=============================================================
+1. PURPOSE AND SCOPE
+=============================================================
+This policy establishes the cybersecurity framework for Regional Community Bank, aligned with the NIST Cybersecurity Framework (CSF 2.0), FFIEC Cybersecurity Assessment Tool (CAT), and applicable banking regulations including GLBA Safeguards Rule and OCC Bulletin 2023-17. It applies to all information systems, data, employees, contractors, and third-party service providers.
+
+=============================================================
+2. CYBERSECURITY GOVERNANCE
+=============================================================
+2.1 The CISO is responsible for developing, implementing, and maintaining the Bank's Information Security Program.
+2.2 The Information Security Steering Committee (ISSC), chaired by the CISO, meets monthly.
+2.3 The Board Risk Committee receives a cybersecurity risk report at minimum quarterly.
+2.4 An annual independent cybersecurity assessment must be conducted by a qualified third party.
+
+=============================================================
+3. ACCESS CONTROL
+=============================================================
+3.1 Least Privilege Principle: Access rights shall be granted based on business need and limited to the minimum necessary.
+3.2 Multi-Factor Authentication (MFA) is mandatory for:
+    (a) All privileged/administrator access;
+    (b) All remote access (VPN, remote desktop);
+    (c) All access to customer-facing systems and core banking platform;
+    (d) All cloud service portals.
+3.3 Privileged Access Management (PAM): All privileged accounts must be managed through the Bank's PAM solution with session recording.
+3.4 Access reviews shall be conducted quarterly for privileged accounts and semi-annually for standard accounts.
+3.5 Terminated employee access must be revoked within 4 hours of termination notification for standard access and within 1 hour for privileged access.
+
+=============================================================
+4. VULNERABILITY AND PATCH MANAGEMENT
+=============================================================
+4.1 Vulnerability scanning must be conducted:
+    - Weekly: External-facing systems;
+    - Monthly: Internal network infrastructure;
+    - Quarterly: Full enterprise scan.
+4.2 Patch application timelines:
+    - Critical (CVSS 9.0–10.0): Patch within 48 hours;
+    - High (CVSS 7.0–8.9): Patch within 7 days;
+    - Medium (CVSS 4.0–6.9): Patch within 30 days;
+    - Low (CVSS 0.1–3.9): Patch within 90 days.
+4.3 Unpatched critical vulnerabilities after deadline require Risk Acceptance approved by CISO.
+
+=============================================================
+5. INCIDENT RESPONSE
+=============================================================
+5.1 The Bank maintains an Incident Response Plan (IRP) tested semi-annually via tabletop exercises.
+5.2 Cybersecurity Incident Classification:
+    - Level 1 (Critical): Ransomware, confirmed data breach, core banking system compromise. Response: Invoke IRP immediately; notify CISO within 15 minutes; notify CEO within 30 minutes; notify regulators per notification requirements (see Section 5.4).
+    - Level 2 (High): Malware infection on business systems, phishing with credential compromise. Response: Notify CISO within 1 hour; invoke containment procedures.
+    - Level 3 (Medium): Anomalous access detected, policy violation. Response: Notify Security Operations Center (SOC); investigate within 4 hours.
+    - Level 4 (Low): Failed access attempts, spam campaigns. Response: Log and review; report to SOC daily digest.
+5.3 Forensic evidence must be preserved for all Level 1 and Level 2 incidents.
+5.4 Regulatory Notification Requirements:
+    - OCC Notification Rule (12 CFR Part 53): Notify OCC within 36 hours of a computer security incident that materially disrupts or degrades, or is reasonably likely to materially disrupt or degrade, a covered bank's operations;
+    - GLBA Safeguards Rule: Notify affected customers of data breach;
+    - FFIEC Guidance: Incident reporting to primary federal regulator.
+
+=============================================================
+6. DATA ENCRYPTION
+=============================================================
+6.1 Encryption Standards:
+    - Data at Rest: AES-256 for all customer data and sensitive Bank data;
+    - Data in Transit: TLS 1.2 minimum (TLS 1.3 preferred) for all external communications;
+    - Key Management: Hardware Security Modules (HSMs) required for master encryption keys.
+6.2 Unencrypted transmission of customer sensitive data is prohibited.
+
+=============================================================
+7. THIRD-PARTY CYBERSECURITY
+=============================================================
+7.1 All third-party vendors with access to Bank systems or customer data must complete a cybersecurity questionnaire before contract execution.
+7.2 Critical vendors must provide annual SOC 2 Type II reports.
+7.3 Penetration testing results from critical vendors must be reviewed annually.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v2.3 (Jan 2025): Updated to NIST CSF 2.0; added OCC 36-hour notification requirement.
+v2.2 (Mar 2024): Added PAM session recording requirement; revised patch timelines.

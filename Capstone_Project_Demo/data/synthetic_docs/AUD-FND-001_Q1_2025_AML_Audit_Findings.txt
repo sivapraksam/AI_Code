@@ -1,0 +1,76 @@
+DOCUMENT ID: AUD-FND-001
+TITLE: Audit Finding Report — Q1 2025 AML Program Review
+AUDIT PERIOD: January 1, 2025 – March 31, 2025
+REPORT DATE: April 22, 2025
+CLASSIFICATION: Internal — Strictly Confidential
+PREPARED BY: Internal Audit Department
+DISTRIBUTION: Board Audit Committee, CEO, CCO, CRO
+
+=============================================================
+EXECUTIVE SUMMARY
+=============================================================
+Internal Audit conducted a targeted review of the Anti-Money Laundering (AML) program during Q1 2025. The scope covered SAR filing timeliness, alert disposition quality, Enhanced Due Diligence (EDD) completeness for High-risk customers, and AML training completion rates.
+
+Overall AML Program Rating: NEEDS IMPROVEMENT
+
+Three findings were identified: one HIGH rated, one MEDIUM rated, and one LOW rated.
+
+=============================================================
+FINDING AUD-2025-Q1-001 (HIGH)
+TITLE: SAR Filing Timeliness Failures
+=============================================================
+Condition:
+A sample of 47 SAR filings from Q1 2025 was tested against the 30-day filing requirement (per POL-AML-001, Section 4.3). 11 out of 47 SARs (23.4%) were filed more than 30 days after initial detection of suspicious activity. The average delay for late filings was 47 days. The longest delay identified was 78 days.
+
+Criteria:
+FinCEN regulations and the Bank's AML Policy (POL-AML-001, Section 4.3) require SAR filing within 30 calendar days of initial detection of suspicious activity, with a maximum extension of 30 additional days if more information is needed, bringing the maximum to 60 days from detection.
+
+Cause:
+Root cause analysis identified insufficient workflow tracking in the transaction monitoring system. Alert disposition workflow lacks automated escalation reminders at the 20-day mark and does not flag alerts approaching the 30-day SAR deadline.
+
+Effect / Risk:
+Late SAR filings violate BSA requirements and expose the Bank to regulatory sanctions. FinCEN and the primary regulator (OCC) have issued enforcement actions against peer institutions for systematic SAR filing delays. Potential consequences include civil money penalties and reputational damage.
+
+Management Response:
+AML Compliance Manager commits to implementing automated deadline tracking in the transaction monitoring system by June 30, 2025. Interim manual tracking process implemented effective April 25, 2025. Monthly SAR timeliness report added to AML Steering Committee agenda.
+
+Target Remediation Date: June 30, 2025
+Responsible Owner: AML Compliance Manager
+
+=============================================================
+FINDING AUD-2025-Q1-002 (MEDIUM)
+TITLE: Incomplete EDD Files for High-Risk Customers
+=============================================================
+Condition:
+A sample of 28 High-risk customer files was reviewed. 8 out of 28 files (28.6%) were missing at least one required EDD element per POL-KYC-002, Section 5.1. Missing elements included:
+- Source of Wealth documentation: 5 files;
+- Annual senior management re-approval: 4 files;
+- Adverse media search documentation: 3 files.
+(Note: some files were missing multiple elements.)
+
+Criteria:
+POL-KYC-002, Section 5.1 requires all High-risk customers to have complete EDD files including documented source of wealth, source of funds for significant transactions, senior management approval, adverse media search (minimum two sources), and expected transaction volume documentation.
+
+Management Response:
+Compliance Operations will conduct a complete remediation review of all High-risk customer files by May 31, 2025. Standard EDD checklist to be implemented in onboarding and periodic review workflow by June 30, 2025.
+
+Target Remediation Date: June 30, 2025
+Responsible Owner: Head of Compliance Operations
+
+=============================================================
+FINDING AUD-2025-Q1-003 (LOW)
+TITLE: AML Training Completion Gap
+=============================================================
+Condition:
+As of March 31, 2025, 94.2% of employees had completed the mandatory annual AML training (requirement: 100% per POL-AML-001, Section 8.1). 23 employees across 4 branches had not completed training. 18 of these employees were hired in Q4 2024.
+
+Management Response:
+HR and Compliance jointly to resolve all outstanding training completions by May 15, 2025. Onboarding checklist updated to include mandatory AML training as a prerequisite for system access.
+
+Target Remediation Date: May 15, 2025
+Responsible Owner: Head of HR / AML Compliance Manager
+
+=============================================================
+FOLLOW-UP
+=============================================================
+Internal Audit will validate remediation of all three findings in the Q3 2025 follow-up audit.

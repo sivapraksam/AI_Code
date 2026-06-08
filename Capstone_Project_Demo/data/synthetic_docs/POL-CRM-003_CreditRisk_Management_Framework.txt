@@ -1,0 +1,86 @@
+DOCUMENT ID: POL-CRM-003
+TITLE: Credit Risk Management Framework
+VERSION: 4.1
+EFFECTIVE DATE: February 1, 2025
+REVIEW DATE: January 31, 2026
+OWNER: Chief Risk Officer
+CLASSIFICATION: Internal — Confidential
+
+=============================================================
+1. PURPOSE AND SCOPE
+=============================================================
+This framework defines the Bank's approach to identifying, measuring, monitoring, and controlling credit risk across all lending portfolios including retail, commercial, and mortgage. It aligns with OCC guidelines, Basel III/IV standards, and the Bank's Risk Appetite Statement.
+
+=============================================================
+2. CREDIT RISK APPETITE
+=============================================================
+2.1 The Bank targets a maximum Non-Performing Loan (NPL) ratio of 2.0% of total loans outstanding.
+2.2 The Bank targets a minimum Tier 1 Capital Ratio of 10.5% (regulatory minimum: 6.0% under Basel III).
+2.3 Maximum single-borrower exposure is capped at 15% of Tier 1 Capital.
+2.4 Maximum sector concentration is capped at 25% of total loan portfolio for any single industry.
+
+=============================================================
+3. CREDIT UNDERWRITING STANDARDS
+=============================================================
+3.1 Retail Lending:
+    (a) Minimum FICO score: 620 for standard products; 580 for government-guaranteed programs;
+    (b) Maximum Debt-to-Income (DTI) ratio: 43% for conventional mortgages; 50% for FHA;
+    (c) Maximum Loan-to-Value (LTV): 80% without Private Mortgage Insurance (PMI); 95% with PMI.
+
+3.2 Commercial Lending:
+    (a) All commercial loans above $500,000 require full financial statement analysis (3 years);
+    (b) Minimum Debt Service Coverage Ratio (DSCR): 1.25x for standard commercial; 1.15x for SBA-guaranteed;
+    (c) Commercial Real Estate (CRE) loans require independent appraisal for values above $500,000.
+
+3.3 Credit Decision Authority:
+    - Up to $250,000: Branch Manager + Credit Analyst approval;
+    - $250,000–$2,000,000: Regional Credit Officer approval;
+    - $2,000,000–$10,000,000: Chief Credit Officer approval;
+    - Above $10,000,000: Board Credit Committee approval.
+
+=============================================================
+4. LOAN CLASSIFICATION AND PROVISIONING
+=============================================================
+4.1 Loan Classification:
+    - Pass: Performing loans with no identified weaknesses;
+    - Special Mention: Potential weaknesses that may result in deterioration;
+    - Substandard: Inadequately protected by borrower's current financial condition;
+    - Doubtful: Collection or liquidation in full highly questionable;
+    - Loss: Considered uncollectible and of such little value that continuance as a bankable asset is not warranted.
+
+4.2 Allowance for Credit Losses (ACL) under CECL:
+    (a) The Bank uses a Weighted Average Remaining Maturity (WARM) method for pools;
+    (b) ACL must be reviewed quarterly by the Credit Risk Committee;
+    (c) The targeted ACL/Loans ratio range is 1.10%–1.60%.
+
+4.3 Charge-Off Policy:
+    - Retail loans: charge off when 120+ days past due;
+    - Commercial loans: charge off when deemed uncollectible after full analysis, typically 180+ days;
+    - Bankruptcy accounts: charge off within 60 days of notification of Chapter 7 filing.
+
+=============================================================
+5. PORTFOLIO MONITORING
+=============================================================
+5.1 The Credit Risk team shall produce a monthly Portfolio Quality Report covering:
+    (a) NPL ratio trend;
+    (b) Watch list loan movement;
+    (c) Concentration analysis by sector, geography, and borrower type;
+    (d) Early warning indicator (EWI) scorecard.
+
+5.2 Annual credit reviews are required for all commercial relationships with outstanding balances above $1,000,000.
+
+5.3 Stress testing shall be conducted semi-annually using the Bank's internal stress scenarios approved by the Risk Committee.
+
+=============================================================
+6. LOAN COVENANTS
+=============================================================
+6.1 All commercial loans above $1,000,000 must include financial maintenance covenants including minimum DSCR and maximum leverage ratio.
+6.2 Covenant violations must be reported to the Credit Risk Committee within 5 business days of detection.
+6.3 Covenant waivers above $500,000 require Chief Credit Officer approval; above $2,000,000 require Board Credit Committee approval.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v4.1 (Feb 2025): Updated ACL methodology to reflect CECL WARM approach; revised single-borrower cap.
+v4.0 (Jan 2024): Full revision aligning with CECL implementation.
+v3.5 (Jun 2023): Updated DSCR minimums for CRE sector.

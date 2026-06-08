@@ -1,0 +1,68 @@
+DOCUMENT ID: REG-BUL-002
+TITLE: Regulatory Bulletin — Dodd-Frank Act: Key Compliance Requirements Update 2024–2025
+VERSION: 1.1
+ISSUE DATE: December 10, 2024
+EFFECTIVE DATE: January 1, 2025
+ISSUING AUTHORITY: Regulatory Affairs Division
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. EXECUTIVE SUMMARY
+=============================================================
+This bulletin summarizes Dodd-Frank Wall Street Reform and Consumer Protection Act compliance obligations relevant to Regional Community Bank for 2025. Key focus areas include: CFPB supervisory priorities, Volcker Rule applicability, qualified mortgage (QM) standards, and remittance transfer rules.
+
+=============================================================
+2. CFPB SUPERVISORY PRIORITIES FOR 2025
+=============================================================
+2.1 The CFPB has identified the following examination priorities for community banks in 2025:
+    (a) Junk fees: Scrutiny of overdraft fees, NSF fees, and account maintenance fees. Banks must ensure fee disclosures are clear, accurate, and non-deceptive. Banks charging overdraft fees above $35 per incident are subject to heightened review.
+    (b) UDAAP (Unfair, Deceptive, or Abusive Acts or Practices): Expanded to include digital lending practices, AI-based credit decisions, and debt collection practices.
+    (c) Small Business Lending (Section 1071): Final rule effective March 2025 for banks with 100+ small business loan originations per year — requires collection and reporting of demographic data including race, sex, and LGBTQI+ status of small business applicants.
+    (d) Mortgage Servicing: Heightened scrutiny of loss mitigation procedures, foreclosure timelines, and RESPA compliance.
+
+2.2 UDAAP Key Standards:
+    - Unfair: Causes or is likely to cause substantial injury to consumers; injury not reasonably avoidable; injury not outweighed by benefits.
+    - Deceptive: Material representation, omission, or practice that is likely to mislead a reasonable consumer.
+    - Abusive: Materially interferes with a consumer's ability to understand a term or condition; takes unreasonable advantage of a lack of understanding, inability to protect interests, or reasonable reliance.
+
+=============================================================
+3. QUALIFIED MORTGAGE (QM) STANDARDS
+=============================================================
+3.1 Under Dodd-Frank Section 1412 and the CFPB QM rule, the Bank must ensure all residential mortgage loans meet Ability-to-Repay (ATR) requirements or qualify as QMs.
+3.2 General QM Category (2025):
+    - Debt-to-Income (DTI) ratio: No hard DTI cap under the 2021 revised QM rule; instead, loan pricing is the primary QM test: the APR may not exceed APOR by more than 2.25 percentage points for a first-lien loan.
+    - No balloon payments, interest-only periods exceeding 3 years, negative amortization, or terms exceeding 30 years for standard QMs.
+3.3 Portfolio QM: The Bank, as a small creditor (assets below $2 billion), may originate Portfolio QMs which require 3-year ATR verification without the pricing restriction but must be held in portfolio.
+3.4 Safe Harbor: QMs that meet the pricing criteria receive a safe harbor from ATR liability; near-prime QMs (APR exceeds APOR by 1.5–2.25 pp) receive only a rebuttable presumption.
+
+=============================================================
+4. REMITTANCE TRANSFER RULES
+=============================================================
+4.1 Under Dodd-Frank Section 1073, the Bank must provide pre-payment disclosures for international remittance transfers:
+    - Amount to be transferred;
+    - All transfer fees and taxes;
+    - Exchange rate;
+    - Amount to be received by recipient;
+    - Date of availability of funds.
+4.2 Cancellation Right: Consumers have 30 minutes post-transfer to cancel and receive a full refund.
+4.3 Error Resolution: The Bank must investigate remittance transfer errors and resolve within 90 days.
+
+=============================================================
+5. VOLCKER RULE APPLICABILITY
+=============================================================
+5.1 Regional Community Bank is exempt from most Volcker Rule proprietary trading restrictions as an institution with total assets below $10 billion and trading assets below $1 billion (Community Bank Exemption per 2020 final rule).
+5.2 The Bank must not engage in covered fund activities that exceed the applicable de minimis thresholds.
+5.3 Compliance with the exemption must be documented annually in the Volcker Rule compliance file.
+
+=============================================================
+6. REPORTING REQUIREMENTS
+=============================================================
+6.1 HMDA (Home Mortgage Disclosure Act): All covered loan applications must be reported by March 1 of the following year.
+6.2 CRA (Community Reinvestment Act): The Bank is evaluated under the revised CRA rule effective 2025 — Retail Lending Test, Community Development Finance Test, and Community Development Services Test.
+6.3 Section 1071 small business lending data: First data collection begins January 1, 2025; first reporting due March 31, 2026 (for qualifying banks).
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v1.1 (Dec 2024): Added Section 1071 timeline; updated CFPB fee guidance.
+v1.0 (Jul 2024): Initial bulletin issued.

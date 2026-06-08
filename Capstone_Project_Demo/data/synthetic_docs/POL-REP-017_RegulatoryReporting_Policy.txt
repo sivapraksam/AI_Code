@@ -1,0 +1,75 @@
+DOCUMENT ID: POL-REP-017
+TITLE: Regulatory Reporting Policy
+VERSION: 2.0
+EFFECTIVE DATE: January 1, 2025
+REVIEW DATE: December 31, 2025
+OWNER: Chief Financial Officer / Chief Compliance Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy governs the preparation, review, approval, and submission of all regulatory reports filed by Regional Community Bank. It ensures the accuracy, completeness, timeliness, and integrity of regulatory submissions.
+
+=============================================================
+2. KEY REGULATORY REPORTS
+=============================================================
+2.1 Prudential Reports:
+    (a) Call Report (FFIEC 041/051): Quarterly; due 30 days after quarter end. Covers financial condition, capital ratios, asset quality.
+    (b) FFIEC 009 Country Exposure Report: Quarterly (if applicable for international exposures above threshold).
+    (c) FR Y-9C (Bank Holding Company Report): Quarterly (if applicable).
+
+2.2 Consumer Protection Reports:
+    (a) HMDA LAR (Loan Application Register): Annual; due March 1. All covered mortgage applications.
+    (b) CRA Annual Report: Annual; evaluated during CRA examination cycle.
+    (c) CFPB Section 1071 Small Business Data: Annual; first due March 31, 2026 for 2025 data.
+
+2.3 Anti-Money Laundering Reports:
+    (a) Currency Transaction Reports (CTRs): Filed within 15 days of triggering transaction.
+    (b) Suspicious Activity Reports (SARs): Filed within 30 days of detection (60 days maximum).
+    (c) FinCEN 314(a) Search Responses: Mandatory response within 14 days of FinCEN query.
+
+2.4 Capital and Liquidity Reports:
+    (a) Call Report capital schedules: Quarterly (included in Call Report).
+    (b) Internal LCR report: Daily calculation; weekly ALCO reporting.
+    (c) DFAST (Dodd-Frank Stress Test): Not currently required for banks below $100B in assets; monitor for applicability.
+
+2.5 Other Reports:
+    (a) FFIEC 002 (Report of Assets and Liabilities of U.S. Branches and Agencies): Not applicable (no foreign branches).
+    (b) SEC Form 10-K (if publicly traded): Annual.
+
+=============================================================
+3. REPORT PREPARATION STANDARDS
+=============================================================
+3.1 Data Quality: All data submitted in regulatory reports must be sourced from the Bank's authoritative data systems with documented data lineage.
+3.2 Review Process: Each regulatory report must be reviewed by at least two qualified individuals before submission — a preparer and an independent reviewer.
+3.3 Senior Certification: The CFO and CCO (or designated deputy) must certify the accuracy of the Call Report, HMDA LAR, and other primary regulatory reports.
+3.4 Material Errors: If a material error is discovered after submission, the reporting team must notify the CFO and CCO within 1 business day. Amendment or resubmission must be completed within the regulatory resubmission deadline.
+
+=============================================================
+4. REPORT CALENDAR AND RESPONSIBILITIES
+=============================================================
+4.1 A complete Regulatory Reporting Calendar is maintained by the CFO office and updated quarterly.
+4.2 The Regulatory Reporting Calendar identifies: report name, regulator, due date, preparer, reviewer, approver, and submission date.
+4.3 The Regulatory Affairs team monitors for new or changed reporting requirements and updates the calendar within 30 days of any change.
+
+=============================================================
+5. RECORD RETENTION FOR REGULATORY REPORTS
+=============================================================
+5.1 All submitted regulatory reports and supporting workpapers must be retained for a minimum of 7 years.
+5.2 SAR filings: Retained for 5 years per FinCEN requirements.
+5.3 CTR filings: Retained for 5 years per FinCEN requirements.
+5.4 HMDA LAR: Retained for 3 years (public), plus underlying data retained for 5 years.
+
+=============================================================
+6. LATE FILING PROCEDURES
+=============================================================
+6.1 If a regulatory report cannot be filed by its due date, the relevant regulator must be notified in advance where the regulatory framework permits.
+6.2 Anticipated late filings must be escalated to the CFO and CCO immediately.
+6.3 All late filings must be documented in the Regulatory Report Log with explanation.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v2.0 (Jan 2025): Added Section 1071 reporting requirement; updated DFAST applicability note.
+v1.9 (Mar 2024): Updated HMDA thresholds and data fields.

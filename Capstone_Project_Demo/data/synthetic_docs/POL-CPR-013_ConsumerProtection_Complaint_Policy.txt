@@ -1,0 +1,86 @@
+DOCUMENT ID: POL-CPR-013
+TITLE: Consumer Protection and Complaint Resolution Policy
+VERSION: 1.3
+EFFECTIVE DATE: February 1, 2025
+REVIEW DATE: January 31, 2026
+OWNER: Chief Compliance Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy defines the standards for consumer protection and complaint handling at Regional Community Bank. It complements POL-MKT-011 and provides specific procedures for complaint intake, triage, resolution, and escalation to ensure compliance with CFPB expectations and Reg E, Reg Z, and ECOA requirements.
+
+=============================================================
+2. COMPLAINT INTAKE AND TRIAGE
+=============================================================
+2.1 Complaints are received through the following channels:
+    (a) Branch: Customer complaints in writing or verbally to branch staff;
+    (b) Phone: Customer service center (1-800 number);
+    (c) Online: Secure message center in online banking;
+    (d) Mail: Written complaints to the Bank's main address;
+    (e) Regulator: CFPB Consumer Response portal, OCC, or state banking regulator;
+    (f) Social Media: Monitored daily by Customer Experience team.
+
+2.2 All complaints must be logged in the Complaint Management System (CMS) within 1 business day.
+2.3 Complaint Triage Categories:
+    - Tier 1 (Critical): Potential regulatory violations (UDAAP, fair lending, RESPA, TILA, Reg E errors), litigation threats, media escalation;
+    - Tier 2 (High): Service failures, fee disputes above $500, product misrepresentation claims;
+    - Tier 3 (Standard): Routine service inquiries, low-dollar fee disputes.
+
+=============================================================
+3. RESOLUTION STANDARDS
+=============================================================
+3.1 Tier 1 (Critical) Complaints:
+    - Acknowledge within 1 business day;
+    - Assign to Compliance for investigation within 2 business days;
+    - Resolution or detailed update within 15 business days;
+    - Final resolution within 30 business days.
+
+3.2 Tier 2 (High) Complaints:
+    - Acknowledge within 2 business days;
+    - Resolution within 15 business days.
+
+3.3 Tier 3 (Standard) Complaints:
+    - Acknowledge within 5 business days;
+    - Resolution within 20 business days.
+
+3.4 CFPB Portal Complaints: Must be acknowledged within 15 calendar days and fully resolved within 60 calendar days, per CFPB requirements.
+
+=============================================================
+4. REGULATION E ERROR RESOLUTION
+=============================================================
+4.1 Reg E (Electronic Fund Transfer Act) requires:
+    (a) Investigations must be initiated within 10 business days of error notice;
+    (b) Provisional credit must be applied within 10 business days if investigation cannot be completed;
+    (c) Final determination must be communicated within 45 days (90 days for POS transactions and new accounts);
+    (d) If no error found, provisional credit is reversed with 3 business days notice.
+4.2 Errors subject to Reg E include: unauthorized EFTs, incorrect amount, failure to credit deposit, failure to complete EFT.
+
+=============================================================
+5. ESCALATION PROCEDURES
+=============================================================
+5.1 Any complaint alleging:
+    (a) Discrimination or fair lending violation → escalate to Fair Lending Officer within 2 hours;
+    (b) Elder financial exploitation → escalate to Compliance and report to Adult Protective Services;
+    (c) Potential BSA/AML violation → escalate to AML Compliance Manager;
+    (d) Data breach or privacy violation → escalate to Data Protection Officer.
+
+5.2 Complaints from state attorneys general or regulatory bodies must be routed to Legal within 1 hour.
+
+=============================================================
+6. ROOT CAUSE ANALYSIS AND TREND REPORTING
+=============================================================
+6.1 Monthly Root Cause Analysis (RCA) of all Tier 1 complaints is required.
+6.2 Quarterly complaint trend report to Compliance Committee including:
+    - Volume by category and channel;
+    - Resolution timeliness metrics;
+    - Repeat complaint analysis;
+    - Emerging risks identified.
+6.3 Annual complaint data analysis is included in the Fair Lending Risk Assessment.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v1.3 (Feb 2025): Added social media complaint channel; updated Reg E provisional credit procedures.
+v1.2 (Jun 2024): Added CFPB portal complaint specific timelines.

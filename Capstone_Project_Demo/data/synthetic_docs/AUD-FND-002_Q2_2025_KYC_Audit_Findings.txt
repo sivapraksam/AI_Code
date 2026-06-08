@@ -1,0 +1,67 @@
+DOCUMENT ID: AUD-FND-002
+TITLE: Audit Finding Report — Q2 2025 KYC & CDD Review
+AUDIT PERIOD: April 1, 2025 – June 30, 2025
+REPORT DATE: July 18, 2025
+CLASSIFICATION: Internal — Strictly Confidential
+PREPARED BY: Internal Audit Department
+DISTRIBUTION: Board Audit Committee, CEO, CCO, CRO
+
+=============================================================
+EXECUTIVE SUMMARY
+=============================================================
+Internal Audit conducted a review of KYC and Customer Due Diligence (CDD) processes during Q2 2025. Scope included: customer risk rating accuracy, beneficial ownership documentation, OFAC screening effectiveness, and periodic review completion rates.
+
+Overall KYC/CDD Program Rating: SATISFACTORY WITH EXCEPTIONS
+
+Two findings were identified: one HIGH rated and one MEDIUM rated.
+
+=============================================================
+FINDING AUD-2025-Q2-001 (HIGH)
+TITLE: Beneficial Ownership Certification Gaps for Legal Entity Customers
+=============================================================
+Condition:
+A sample of 55 legal entity customer accounts opened in Q2 2025 was reviewed. 12 out of 55 accounts (21.8%) were missing a completed beneficial ownership certification form as required by FinCEN's Beneficial Ownership Rule. Additionally, 4 accounts had certifications that listed a beneficial owner with less than the 25% ownership threshold, which should have triggered additional investigation to identify the correct beneficial owners.
+
+Criteria:
+POL-KYC-002, Section 4.1 and FinCEN's Customer Due Diligence Rule (31 CFR Part 1010.230) require that legal entity customers provide a certification identifying all individuals owning ≥25% of the equity (Ownership Prong) and one controlling individual (Control Prong) before account activation.
+
+Cause:
+Account opening workflow in the core banking system does not prevent account funding when the beneficial ownership form field is flagged as "Pending." This represents a system control gap.
+
+Effect / Risk:
+Failure to collect beneficial ownership information is a direct violation of FinCEN's CDD Rule and creates money laundering risk by allowing shell companies to open accounts without identifying ultimate beneficial owners.
+
+Management Response:
+IT to implement a hard system block preventing account funding when beneficial ownership certification is in "Pending" status by August 15, 2025. Compliance Operations will remediate existing 12 accounts by July 31, 2025 with escalation for any non-responsive customers.
+
+Target Remediation Date: August 15, 2025
+Responsible Owner: Head of Compliance Operations / IT Director
+
+=============================================================
+FINDING AUD-2025-Q2-002 (MEDIUM)
+TITLE: Periodic KYC Review Completion Rate Below Target
+=============================================================
+Condition:
+As of June 30, 2025, the periodic KYC review completion rate for due reviews was 76.3%, below the 95% target. The backlog included:
+- 34 High-risk customer reviews overdue (reviews required annually per POL-KYC-002, Section 6.1);
+- 89 Medium-risk customer reviews overdue;
+- 156 Low-risk customer reviews overdue.
+
+The backlog has grown by 22% compared to Q1 2025.
+
+Criteria:
+POL-KYC-002, Section 6.1 requires periodic reviews on defined schedules. High-risk customer reviews that are overdue by more than 30 days represent a regulatory compliance gap.
+
+Cause:
+Compliance Operations headcount was reduced by 2 FTEs in Q1 2025 due to budget constraints, while the number of High-risk customers has grown by 18% year-over-year.
+
+Management Response:
+CCO to request budget approval for 2 additional Compliance Analysts by September 2025. Interim: High-risk customer reviews to be prioritized using an automated workflow queue. Target completion of all High-risk overdue reviews by August 31, 2025.
+
+Target Remediation Date: August 31, 2025 (High-risk); December 31, 2025 (Medium/Low-risk)
+Responsible Owner: Head of Compliance Operations
+
+=============================================================
+FOLLOW-UP
+=============================================================
+Internal Audit will validate remediation of both findings in the Q4 2025 follow-up audit.

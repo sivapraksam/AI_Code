@@ -1,0 +1,59 @@
+DOCUMENT ID: REG-BUL-004
+TITLE: Regulatory Bulletin — Basel IV / Fundamental Review of the Trading Book (FRTB) Update
+VERSION: 1.0
+ISSUE DATE: September 5, 2024
+EFFECTIVE DATE: Reference Document (FRTB not yet effective for community banks)
+ISSUING AUTHORITY: Risk & Regulatory Affairs Division
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This bulletin provides awareness information on Basel IV reforms, specifically the Fundamental Review of the Trading Book (FRTB), and their anticipated impact on Regional Community Bank. Given the Bank's limited trading activity, full FRTB implementation is not expected to apply; however, awareness is required for capital planning and competitive intelligence purposes.
+
+=============================================================
+2. BASEL IV OVERVIEW
+=============================================================
+2.1 "Basel IV" is an informal term for the final set of Basel III reforms finalized by the Basel Committee in December 2017. Key components include:
+    (a) Revised Standardized Approach (SA) for credit risk — more risk-sensitive than current SA;
+    (b) Output Floor: SA-based RWA floor of 72.5% of Internal Model Approach (IMA) RWA (phased in 2025–2030);
+    (c) Revised Operational Risk Framework: Business Indicator Component (BIC);
+    (d) Fundamental Review of the Trading Book (FRTB): New framework for market risk capital;
+    (e) Leverage Ratio: Supplementary Leverage Ratio (SLR) revisions.
+
+2.2 US Implementation Status (as of September 2024):
+    - The Basel III Endgame NPR (July 2023) proposed US implementation of Basel IV reforms;
+    - Following significant industry opposition, federal regulators issued a revised NPR in September 2024 significantly scaling back initial proposals, particularly for non-GSIB institutions;
+    - Community banks (< $100B in assets) are largely exempt from advanced approach requirements including FRTB;
+    - The Bank is NOT expected to be subject to FRTB reporting requirements under current proposals.
+
+=============================================================
+3. FRTB FRAMEWORK (AWARENESS)
+=============================================================
+3.1 FRTB replaces the current market risk framework (Basel 2.5) with:
+    - Revised Standardized Approach (SA): Risk-based charges for individual risk factors (delta, vega, curvature);
+    - Internal Models Approach (IMA): Expected Shortfall (ES) at 97.5% confidence replaces VaR at 99%;
+    - Trading Book / Banking Book Boundary: Stricter rules on instrument classification;
+    - P&L Attribution Test: IMA eligibility requires portfolio P&L attribution testing.
+
+3.2 For awareness: Institutions subject to FRTB must calculate market risk capital using the SA-FRTB at minimum, with IMA available only for approved desks.
+
+=============================================================
+4. CREDIT VALUATION ADJUSTMENT (CVA) RISK
+=============================================================
+4.1 Basel IV revises CVA risk capital to require capital for CVA volatility risk (as well as default risk).
+4.2 The Bank has minimal derivatives exposure; however, interest rate swap agreements used for balance sheet hedging may require CVA capital treatment under revised rules.
+4.3 Treasury should assess derivatives notional exposure annually for CVA materiality threshold purposes.
+
+=============================================================
+5. OUTPUT FLOOR IMPACT ASSESSMENT
+=============================================================
+5.1 As the Bank uses the Standardized Approach for all risk types and does not use internal models, the Output Floor (72.5%) would not directly bind.
+5.2 Indirect impact: If large bank competitors' RWA increases due to Output Floor, their pricing behavior on loans and deposits may change, affecting competitive dynamics.
+
+=============================================================
+6. MONITORING REQUIREMENTS
+=============================================================
+6.1 Risk & Regulatory Affairs will monitor US Basel IV implementation progress quarterly.
+6.2 A comprehensive impact assessment will be commissioned if the Bank's total assets approach the $10 billion threshold that triggers enhanced prudential standards.
+6.3 Next update bulletin: Q1 2025, following any final rulemaking from US regulators.

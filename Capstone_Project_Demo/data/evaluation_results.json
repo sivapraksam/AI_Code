@@ -1,0 +1,230 @@
+{
+  "scores": {
+    "faithfulness": 0.985,
+    "context_recall": 0.865,
+    "context_precision": 0.925,
+    "num_questions": 10,
+    "note": "Gemini LLM-based scores (RAGAS-style prompts, sequential evaluation)",
+    "faithfulness_pass": true,
+    "context_recall_pass": true,
+    "context_precision_pass": true,
+    "overall_pass": true
+  },
+  "outputs": [
+    {
+      "question": "What are the SAR filing thresholds and deadline requirements under the AML policy?",
+      "answer": "Under the Bank's AML policy, the SAR filing thresholds and deadline requirements are as follows:\n\n**SAR Filing Thresholds**\n*   Transactions of $5,000 or more involving a known or suspected violation [Source: POL-AML-001, Section: 4. SUSPICIOUS ACTIVITY REPORTING (SAR)].\n*   Transactions of $25,000 or more where no suspect can be identified [Source: POL-AML-001, Section: 4. SUSPICIOUS ACTIVITY REPORTING (SAR)].\n\n**Deadline Requirements**\n*   SARs must be filed within 30 calendar days of the initial detection of suspicious activity [Source: POL-AML-001, Section: 4. SUSPICIOUS ACTIVITY REPORTING (SAR)].\n*   A maximum extension of 30 additional days is permitted if more information is needed, resulting in a maximum filing window of 60 days from the date of detection [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY].\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.\n\nConfidence: HIGH",
+      "contexts": [
+        "DOCUMENT HISTORY\n=============================================================\nv3.2 (Jan 2025): Updated SAR thresholds per FinCEN guidance; added MSB category to high-risk.\nv3.1 (Jan 2024): Revised EDD requirements for PEPs.\nv3.0 (Jan 2023): Full policy revision to align with FinCEN 2022 AML reform rules.",
+        "the customer would normally conduct.\n4.2 SAR Filing Thresholds:\n    - Transactions of $5,000 or more involving a known or suspected violation.\n    - Transactions of $25,000 or more where no suspect can be identified.\n4.3 SARs must be filed within 30 calendar days of initial detection of suspicious activity.\n4.4 SAR filings are confidential. No employee may disclose the existence of a SAR to any person named in the SAR or to any other party (tipping-off prohibition).",
+        "e filings was 47 days. The longest delay identified was 78 days.\n\nCriteria:\nFinCEN regulations and the Bank's AML Policy (POL-AML-001, Section 4.3) require SAR filing within 30 calendar days of initial detection of suspicious activity, with a maximum extension of 30 additional days if more information is needed, bringing the maximum to 60 days from detection.",
+        "=============================================================\n4.1 A Suspicious Activity Report (SAR) must be filed with FinCEN when the Bank knows, suspects, or has reason to suspect that a transaction or pattern of transactions:\n    (a) Involves funds derived from illegal activities;\n    (b) Is designed to evade BSA reporting requirements;\n    (c) Lacks a lawful purpose or is not the type of transaction the customer would normally conduct.\n4.2 SAR Filing Thresholds:",
+        "=============================================================\n9.1 All AML-related records shall be retained for a minimum of 5 years from the date of the transaction or account closing.\n9.2 SAR filings and supporting documentation shall be retained for 5 years from the date of filing."
+      ],
+      "ground_truth": "Under POL-AML-001 Section 4, a SAR must be filed when transactions involve $5,000 or more with a known/suspected violation, or $25,000 or more with no identified suspect. SARs must be filed within 30 calendar days of initial detection of suspicious activity, with a possible 30-day extension (60 days maximum). SAR filings are confidential and employees are prohibited from disclosing their existence (tipping-off prohibition).",
+      "confidence": "LOW",
+      "citations": [
+        "Source: POL-AML-001, Section: DOCUMENT HISTORY",
+        "Source: POL-AML-001, Section: 4. SUSPICIOUS ACTIVITY REPORTING (SAR)",
+        "Source: AUD-FND-001, Section: EXECUTIVE SUMMARY",
+        "Source: POL-AML-001, Section: 4. SUSPICIOUS ACTIVITY REPORTING (SAR)",
+        "Source: POL-AML-001, Section: 9. RECORD RETENTION"
+      ],
+      "latency_ms": 1647
+    },
+    {
+      "question": "What are the minimum capital ratio requirements under Basel III for the bank?",
+      "answer": "Under the Basel III standards applicable to the Bank, the minimum capital ratio requirements are as follows:\n\n*   **Common Equity Tier 1 (CET1) Capital Ratio:** The minimum requirement is 4.5% of Risk-Weighted Assets (RWA) [Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)].\n*   **Tier 1 Capital Ratio:** The minimum requirement is 6.0% of RWA [Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)].\n*   **Total Capital Ratio:** The minimum requirement is 8.0% of RWA [Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)].\n*   **Leverage Ratio:** The minimum Tier 1 Leverage Ratio is 4.0% of average total consolidated assets [Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)].\n\nAdditionally, the Capital Conservation Buffer (CCB) establishes an effective floor for these ratios: 7.0% for CET1, 8.5% for Tier 1 Capital, and 10.5% for Total Capital [Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)].\n\nScope: This answer applies to the Bank's capital adequacy standards as defined for community banks under the Basel III framework.\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.\n\nConfidence: HIGH",
+      "contexts": [
+        "=============================================================\n2.1 The Bank targets a maximum Non-Performing Loan (NPL) ratio of 2.0% of total loans outstanding.\n2.2 The Bank targets a minimum Tier 1 Capital Ratio of 10.5% (regulatory minimum: 6.0% under Basel III).\n2.3 Maximum single-borrower exposure is capped at 15% of Tier 1 Capital.\n2.4 Maximum sector concentration is capped at 25% of total loan portfolio for any single industry.",
+        "=============================================================\n2.1 Common Equity Tier 1 (CET1) Capital Ratio:\n    - Minimum requirement: 4.5% of Risk-Weighted Assets (RWA);\n    - Capital Conservation Buffer (CCB): 2.5% above minimum = effective floor of 7.0% CET1;\n    - Bank internal target per Risk Appetite: 9.5% CET1.\n\n2.2 Tier 1 Capital Ratio:\n    - Minimum requirement: 6.0% of RWA;\n    - With CCB: effective floor of 8.5%;\n    - Bank internal target: 11.0%.",
+        "CCB: effective floor of 8.5%;\n    - Bank internal target: 11.0%.\n\n2.3 Total Capital Ratio:\n    - Minimum requirement: 8.0% of RWA;\n    - With CCB: effective floor of 10.5%;\n    - Bank internal target: 13.0%.\n\n2.4 Leverage Ratio:\n    - Minimum Tier 1 Leverage Ratio: 4.0% of average total consolidated assets.\n\n2.5 Capital Distribution Restrictions: If CET1 falls below 7.0%, the Bank enters automatic restrictions on capital distributions (dividends, buybacks) per the Capital Conservation Buffer framework.",
+        "=============================================================\nThis bulletin summarizes the final Basel III capital adequacy standards as applicable to Regional Community Bank and provides implementation guidance for 2025 compliance. The standards reflected herein draw from the Federal Reserve Board, OCC, and FDIC joint final rule (effective January 1, 2025) implementing the Basel III endgame requirements for non-G-SIB institutions with assets between $100 billion and $700 billion, with tailored application for community banks below $100 billion in assets.",
+        "e) Leverage Ratio: Supplementary Leverage Ratio (SLR) revisions.\n\n2.2 US Implementation Status (as of September 2024):\n    - The Basel III Endgame NPR (July 2023) proposed US implementation of Basel IV reforms;\n    - Following significant industry opposition, federal regulators issued a revised NPR in September 2024 significantly scaling back initial proposals, particularly for non-GSIB institutions;\n    - Community banks (< $100B in assets) are largely exempt from advanced approach requirements including FRTB;\n    - The Bank is NOT expected to be subject to FRTB reporting requirements under current proposals."
+      ],
+      "ground_truth": "Per REG-BUL-001, the minimum capital requirements are: CET1 ratio of 4.5% (with the 2.5% Capital Conservation Buffer, the effective floor is 7.0%, internal target 9.5%); Tier 1 Capital Ratio minimum 6.0% (effective floor 8.5% with CCB, internal target 11.0%); Total Capital Ratio minimum 8.0% (effective floor 10.5% with CCB, internal target 13.0%); Leverage Ratio minimum 4.0% of average total consolidated assets.",
+      "confidence": "MEDIUM",
+      "citations": [
+        "Source: POL-CRM-003, Section: 2. CREDIT RISK APPETITE",
+        "Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)",
+        "Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)",
+        "Source: REG-BUL-001, Section: 1. EXECUTIVE SUMMARY",
+        "Source: REG-BUL-004, Section: 2. BASEL IV OVERVIEW"
+      ],
+      "latency_ms": 9742
+    },
+    {
+      "question": "What Enhanced Due Diligence requirements apply to high-risk customers including PEPs?",
+      "answer": "For high-risk customers, the following Enhanced Due Diligence (EDD) requirements apply:\n\n*   **Documentation of Source of Funds and Wealth:** The bank must obtain documentation regarding the customer's source of funds and source of wealth [Source: POL-AML-001, Section: 6. ENHANCED DUE DILIGENCE (EDD); Source: POL-KYC-002, Section: 5. ENHANCED DUE DILIGENCE FOR HIGH-RISK CUSTOMERS]. Examples of source of wealth documentation include audited financial statements, tax returns, and inheritance documentation [Source: POL-KYC-002, Section: 5. ENHANCED DUE DILIGENCE FOR HIGH-RISK CUSTOMERS].\n*   **Beneficial Ownership:** For legal entities, the bank must perform beneficial ownership verification [Source: POL-AML-001, Section: 6. ENHANCED DUE DILIGENCE (EDD)].\n*   **Screening:** EDD requires negative news screening against adverse media sources [Source: POL-AML-001, Section: 6. ENHANCED DUE DILIGENCE (EDD)]. Audit criteria further specify that this must include a minimum of two adverse media sources [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY].\n*   **Senior Management Approval:** Account opening for high-risk customers requires sign-off from the Chief Compliance Officer or their Deputy [Source: POL-KYC-002, Section: 5. ENHANCED DUE DILIGENCE FOR HIGH-RISK CUSTOMERS].\n*   **Monitoring and Review:** The bank must implement increased transaction monitoring frequency [Source: POL-AML-001, Section: 6. ENHANCED DUE DILIGENCE (EDD)]. Additionally, EDD reviews must be conducted at least every 12 months [Source: POL-AML-001, Section: 6. ENHANCED DUE DILIGENCE (EDD)].\n*   **Transaction Documentation:** Files must include documentation of expected transaction volume [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY].\n\n**Scope Note:** This answer applies to high-risk customers as defined in the bank's AML policy. The provided documents do not contain specific additional requirements unique to PEPs beyond the general high-risk customer requirements.\n\nConfidence: HIGH\n\n***\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.",
+      "contexts": [
+        "=============================================================\n6.1 Enhanced Due Diligence is required for all High-risk customers and shall include:\n    (a) Source of funds and source of wealth documentation;\n    (b) Beneficial ownership verification for legal entities;\n    (c) Negative news screening against adverse media sources;\n    (d) Senior management approval for account opening;\n    (e) Increased transaction monitoring frequency.",
+        "5. ENHANCED DUE DILIGENCE FOR HIGH-RISK CUSTOMERS\n=============================================================\n5.1 High-risk customers (as defined in POL-AML-001) require Enhanced Due Diligence:\n    (a) Source of Wealth documentation (e.g., audited financial statements, tax returns, inheritance documentation);\n    (b) Source of Funds documentation for significant transactions;\n    (c) Senior Management Approval: any High-risk account opening requires sign-off from the Chief Compliance Officer or Deputy;",
+        "unt opening;\n    (e) Increased transaction monitoring frequency.\n6.2 EDD reviews shall be conducted at minimum every 12 months for High-risk customers.",
+        "=============================================================\n3.1 Standard Due Diligence applies to Low and Medium risk customers.\n3.2 SDD requirements:\n    (a) Understand the nature and purpose of the customer relationship;\n    (b) Document the customer's anticipated transaction activity;\n    (c) Screen the customer against OFAC SDN list, PEP lists, and adverse media;\n    (d) Assign a risk rating based on customer type, geography, and products used.",
+        "ion: 3 files.\n(Note: some files were missing multiple elements.)\n\nCriteria:\nPOL-KYC-002, Section 5.1 requires all High-risk customers to have complete EDD files including documented source of wealth, source of funds for significant transactions, senior management approval, adverse media search (minimum two sources), and expected transaction volume documentation."
+      ],
+      "ground_truth": "Per POL-KYC-002 Section 5, high-risk customers require: source of wealth documentation, source of funds documentation, senior management approval (CCO or Deputy), adverse media search from at least two independent sources, and expected transaction volume documentation. For PEPs specifically: immediate family members are treated as PEPs, former PEPs retain PEP status for 12 months post-departure, and PEP accounts require annual senior management re-approval.",
+      "confidence": "MEDIUM",
+      "citations": [
+        "Source: POL-AML-001, Section: 6. ENHANCED DUE DILIGENCE (EDD)",
+        "Source: POL-KYC-002, Section: 5. ENHANCED DUE DILIGENCE FOR HIGH-RISK CUSTOMERS",
+        "Source: POL-AML-001, Section: 6. ENHANCED DUE DILIGENCE (EDD)",
+        "Source: POL-KYC-002, Section: 3. STANDARD DUE DILIGENCE (SDD)",
+        "Source: AUD-FND-001, Section: EXECUTIVE SUMMARY"
+      ],
+      "latency_ms": 7364
+    },
+    {
+      "question": "What were the key audit findings from the Q1 2025 AML program review?",
+      "answer": "The Q1 2025 AML program review resulted in an overall rating of \"NEEDS IMPROVEMENT\" [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY]. \n\nThe audit identified three specific findings:\n*   One HIGH rated finding [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY]\n*   One MEDIUM rated finding [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY]\n*   One LOW rated finding [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY]\n\nThe scope of the review included SAR filing timeliness, alert disposition quality, Enhanced Due Diligence (EDD) completeness for High-risk customers, and AML training completion rates [Source: AUD-FND-001, Section: EXECUTIVE SUMMARY]. Internal Audit is scheduled to validate the remediation of all three findings during a follow-up audit in Q3 2025 [Source: AUD-FND-001, Section: FOLLOW-UP].\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.\n\nConfidence: HIGH",
+      "contexts": [
+        "EXECUTIVE SUMMARY\n=============================================================\nInternal Audit conducted a targeted review of the Anti-Money Laundering (AML) program during Q1 2025. The scope covered SAR filing timeliness, alert disposition quality, Enhanced Due Diligence (EDD) completeness for High-risk customers, and AML training completion rates.\n\nOverall AML Program Rating: NEEDS IMPROVEMENT\n\nThree findings were identified: one HIGH rated, one MEDIUM rated, and one LOW rated.",
+        "FOLLOW-UP\n=============================================================\nInternal Audit will validate remediation of both findings in the Q2 2025 credit follow-up review.",
+        "DOCUMENT ID: AUD-FND-001\nTITLE: Audit Finding Report — Q1 2025 AML Program Review\nAUDIT PERIOD: January 1, 2025 – March 31, 2025\nREPORT DATE: April 22, 2025\nCLASSIFICATION: Internal — Strictly Confidential\nPREPARED BY: Internal Audit Department\nDISTRIBUTION: Board Audit Committee, CEO, CCO, CRO",
+        "FOLLOW-UP\n=============================================================\nInternal Audit will validate remediation of all three findings in the Q3 2025 follow-up audit.",
+        "EXECUTIVE SUMMARY\n=============================================================\nInternal Audit conducted a review of KYC and Customer Due Diligence (CDD) processes during Q2 2025. Scope included: customer risk rating accuracy, beneficial ownership documentation, OFAC screening effectiveness, and periodic review completion rates.\n\nOverall KYC/CDD Program Rating: SATISFACTORY WITH EXCEPTIONS\n\nTwo findings were identified: one HIGH rated and one MEDIUM rated."
+      ],
+      "ground_truth": "Per AUD-FND-001, the Q1 2025 AML review found three issues: (1) HIGH finding: SAR filing timeliness failures — 23.4% (11/47) of SARs were filed more than 30 days after detection, average delay 47 days; remediation target June 30, 2025. (2) MEDIUM finding: Incomplete EDD files — 28.6% (8/28) of high-risk customer files missing required EDD elements including source of wealth and senior management approval. (3) LOW finding: AML training completion gap of 94.2% (vs 100% required). Overall program rating was NEEDS IMPROVEMENT.",
+      "confidence": "MEDIUM",
+      "citations": [
+        "Source: AUD-FND-001, Section: EXECUTIVE SUMMARY",
+        "Source: AUD-FND-004, Section: FOLLOW-UP",
+        "Source: AUD-FND-001",
+        "Source: AUD-FND-001, Section: FOLLOW-UP",
+        "Source: AUD-FND-002, Section: EXECUTIVE SUMMARY"
+      ],
+      "latency_ms": 1674
+    },
+    {
+      "question": "What are the data retention periods for customer account records and transaction records under the data privacy policy?",
+      "answer": "Under the data privacy policy (POL-DPR-005), the retention periods for the requested records are as follows:\n\n*   **Customer account records:** Must be retained for 7 years after account closure [Source: POL-DPR-005, Section: 3. DATA RETENTION PERIODS].\n*   **Transaction records:** Must be retained for 7 years from the transaction date [Source: POL-DPR-005, Section: 3. DATA RETENTION PERIODS].\n\nScope Note: This answer is based specifically on the Data Protection Policy (POL-DPR-005). Please note that other policies, such as the AML policy (POL-AML-001), may contain different retention requirements for specific types of records.\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.\n\nConfidence: HIGH",
+      "contexts": [
+        "=============================================================\n3.1 The following retention periods apply:\n    - Customer account records: 7 years after account closure;\n    - Transaction records: 7 years from transaction date;\n    - Loan application data (approved): 7 years after loan maturity;\n    - Loan application data (declined): 2 years from application date;\n    - Employee records: 7 years after employment end;\n    - Marketing consent records: 3 years from last customer interaction;",
+        "rketing consent records: 3 years from last customer interaction;\n    - CCTV footage: 30 days unless subject to investigation;\n    - Audit logs and access records: 3 years.\n3.2 Data must be securely deleted or anonymized upon expiry of retention period.\n3.3 A Data Retention Schedule shall be maintained by the Data Protection Officer and reviewed annually.",
+        "=============================================================\n9.1 All AML-related records shall be retained for a minimum of 5 years from the date of the transaction or account closing.\n9.2 SAR filings and supporting documentation shall be retained for 5 years from the date of filing.",
+        "=============================================================\n8.1 All CIP and CDD records shall be retained for 5 years after account closing.\n8.2 Beneficial ownership certification forms shall be retained for 5 years after account closing.\n8.3 OFAC screening records shall be retained for 5 years.",
+        "=============================================================\nThis policy governs the collection, processing, storage, and transfer of personal data at Regional Community Bank. It applies to all employees, contractors, and third-party processors handling personal data of EU/EEA data subjects (GDPR), California residents (CCPA), and all customer personal data subject to Gramm-Leach-Bliley Act (GLBA) requirements."
+      ],
+      "ground_truth": "Per POL-DPR-005 Section 3.1, the retention periods are: customer account records — 7 years after account closure; transaction records — 7 years from transaction date; approved loan application data — 7 years after loan maturity; declined loan applications — 2 years from application date; employee records — 7 years after employment end; marketing consent records — 3 years from last customer interaction; CCTV footage — 30 days unless under investigation; audit logs — 3 years. Data must be securely deleted or anonymized upon expiry.",
+      "confidence": "MEDIUM",
+      "citations": [
+        "Source: POL-DPR-005, Section: 3. DATA RETENTION PERIODS",
+        "Source: POL-DPR-005, Section: 3. DATA RETENTION PERIODS",
+        "Source: POL-AML-001, Section: 9. RECORD RETENTION",
+        "Source: POL-KYC-002, Section: 8. RECORD KEEPING",
+        "Source: POL-DPR-005, Section: 1. PURPOSE AND SCOPE"
+      ],
+      "latency_ms": 5358
+    },
+    {
+      "question": "What are the fraud escalation procedures for losses above $500,000?",
+      "answer": "For fraud losses exceeding $500,000, the following escalation procedures apply:\n\n*   **Notification:** The Head of Financial Crimes, the Chief Risk Officer (CRO), and the CEO must be notified within 30 minutes of the incident [Source: POL-FRD-009, Section: 4. FRAUD INCIDENT ESCALATION PROCEDURES].\n*   **Law Enforcement:** A referral to law enforcement is required [Source: POL-FRD-009, Section: 4. FRAUD INCIDENT ESCALATION PROCEDURES].\n*   **Board Notification:** The Board must be notified at the next meeting [Source: POL-FRD-009, Section: 4. FRAUD INCIDENT ESCALATION PROCEDURES].\n\nAdditionally, because the loss exceeds $25,000, the investigation must be conducted by the Financial Crimes Investigation team [Source: POL-FRD-009, Section: 5. FRAUD INVESTIGATION].\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.\n\nConfidence: HIGH",
+      "contexts": [
+        "=============================================================\n4.1 Fraud Escalation Thresholds:\n    - Losses below $10,000: Branch Manager notification; documented in fraud log;\n    - Losses $10,000–$100,000: Financial Crimes team notification within 2 hours; investigation initiated within 24 hours;\n    - Losses $100,000–$500,000: Head of Financial Crimes and CRO notified within 1 hour; law enforcement referral considered;\n    - Losses above $500,000: Head of Financial Crimes, CRO, and CEO notified within 30 minutes; law enforcement referral required; Board notification at next meeting;\n    - Losses above $1,000,000 involving employee: Immediate suspension of employee and notification to Board Chair; FBI referral within 24 hours.",
+        "=============================================================\n5.1 All fraud investigations above $25,000 must be conducted by the Financial Crimes Investigation team.\n5.2 Investigation files must be maintained securely and separately from the standard customer file.\n5.3 Fraud investigation findings must be documented and retained for 7 years.\n5.4 Evidence chain of custody must be maintained for cases referred to law enforcement.",
+        "=============================================================\n6.1 Fraud losses must be reported to the appropriate insurance carrier within the policy's notification window (typically 30–60 days).\n6.2 Recovery efforts for external fraud are coordinated by the Financial Crimes team.\n6.3 Internal fraud recoveries may include civil litigation, fidelity bond claims, and regulatory referral.",
+        "DOCUMENT HISTORY\n=============================================================\nv2.6 (Jan 2025): Added BEC wire fraud controls; updated escalation thresholds.\nv2.5 (Jul 2024): Added international wire callback requirement.",
+        "e and notification to Board Chair; FBI referral within 24 hours.\n\n4.2 SAR Filing for Fraud:\n    - Fraud-related SARs must be filed when the loss or attempted loss involves $5,000 or more and a suspect can be identified, or $25,000 or more regardless of suspect identification.\n    - SARs must be filed within 30 days of initial detection.\n\n4.3 Customer Notification:\n    - Customers must be notified of fraud on their accounts within 2 business days of discovery."
+      ],
+      "ground_truth": "Per POL-FRD-009 Section 4.1, for fraud losses above $500,000: the Head of Financial Crimes, CRO, and CEO must be notified within 30 minutes; law enforcement referral is required; Board notification is required at the next meeting. For losses above $1,000,000 involving an employee: immediate suspension of the employee and notification to the Board Chair is required, plus FBI referral within 24 hours.",
+      "confidence": "MEDIUM",
+      "citations": [
+        "Source: POL-FRD-009, Section: 4. FRAUD INCIDENT ESCALATION PROCEDURES",
+        "Source: POL-FRD-009, Section: 5. FRAUD INVESTIGATION",
+        "Source: POL-FRD-009, Section: 6. RECOVERY AND RESTITUTION",
+        "Source: POL-FRD-009, Section: DOCUMENT HISTORY",
+        "Source: POL-FRD-009, Section: 4. FRAUD INCIDENT ESCALATION PROCEDURES"
+      ],
+      "latency_ms": 1850
+    },
+    {
+      "question": "What are the cybersecurity patch management timelines for critical vulnerabilities?",
+      "answer": "The cybersecurity patch management timeline for critical vulnerabilities (CVSS 9.0–10.0) is 48 hours [Source: POL-CYB-006, Section: 4. VULNERABILITY AND PATCH MANAGEMENT]. \n\nIf a critical vulnerability remains unpatched after this deadline, a Risk Acceptance form must be completed and approved by the CISO [Source: POL-CYB-006, Section: 4. VULNERABILITY AND PATCH MANAGEMENT; Source: AUD-FND-003, Section: EXECUTIVE SUMMARY].\n\nConfidence: HIGH\n\n***\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.",
+      "contexts": [
+        "within 30 days;\n    - Low (CVSS 0.1–3.9): Patch within 90 days.\n4.3 Unpatched critical vulnerabilities after deadline require Risk Acceptance approved by CISO.",
+        "=============================================================\n4.1 Vulnerability scanning must be conducted:\n    - Weekly: External-facing systems;\n    - Monthly: Internal network infrastructure;\n    - Quarterly: Full enterprise scan.\n4.2 Patch application timelines:\n    - Critical (CVSS 9.0–10.0): Patch within 48 hours;\n    - High (CVSS 7.0–8.9): Patch within 7 days;\n    - Medium (CVSS 4.0–6.9): Patch within 30 days;\n    - Low (CVSS 0.1–3.9): Patch within 90 days.",
+        "compatibility testing. No formal exception process was followed.\n\nEffect / Risk:\nUnpatched critical vulnerabilities on production servers expose the Bank to data breach, ransomware attack, and regulatory sanctions. The OCC has cited patch management failures as a significant supervisory concern in its 2025 guidance.",
+        "lures as a significant supervisory concern in its 2025 guidance.\n\nManagement Response:\nCISO to implement emergency patch testing environment by November 1, 2025. All 7 vulnerabilities to be remediated or have formal Risk Acceptance approved by October 31, 2025. Legacy server replacement project accelerated to Q1 2026.\n\nTarget Remediation Date: October 31, 2025\nResponsible Owner: CISO / IT Operations Manager",
+        "tance forms had been completed for any of these vulnerabilities.\n\nCriteria:\nPOL-CYB-006, Section 4.2 requires critical vulnerabilities (CVSS 9.0–10.0) to be patched within 48 hours. Exceptions require CISO-approved Risk Acceptance documentation.\n\nCause:\nThe affected servers are legacy systems running a deprecated middleware version for which vendor patches require additional compatibility testing. No formal exception process was followed."
+      ],
+      "ground_truth": "Per POL-CYB-006 Section 4.2, the patch application timelines are: Critical vulnerabilities (CVSS 9.0-10.0) must be patched within 48 hours; High (CVSS 7.0-8.9) within 7 days; Medium (CVSS 4.0-6.9) within 30 days; Low (CVSS 0.1-3.9) within 90 days. Unpatched critical vulnerabilities after the deadline require Risk Acceptance approved by the CISO.",
+      "confidence": "MEDIUM",
+      "citations": [
+        "Source: POL-CYB-006, Section: 4. VULNERABILITY AND PATCH MANAGEMENT",
+        "Source: POL-CYB-006, Section: 4. VULNERABILITY AND PATCH MANAGEMENT",
+        "Source: AUD-FND-003, Section: EXECUTIVE SUMMARY",
+        "Source: AUD-FND-003, Section: EXECUTIVE SUMMARY",
+        "Source: AUD-FND-003, Section: EXECUTIVE SUMMARY"
+      ],
+      "latency_ms": 13653
+    },
+    {
+      "question": "What Tier 1 critical vendor due diligence requirements apply under the third-party risk management policy?",
+      "answer": "Under the bank's third-party risk management policy, Tier 1 (Critical) vendors are defined as those providing core banking functions, data center hosting, payment processing, or those with access to significant volumes of customer PII, where failure would materially disrupt bank operations or expose customers to significant harm [Source: POL-TPM-008, Section: 2. THIRD-PARTY RISK TIERING].\n\nThe due diligence requirements for Tier 1 vendors include:\n*   Financial viability assessment, specifically audited financials for the past 3 years [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS];\n*   SOC 1 Type II and SOC 2 Type II reports (or equivalent) [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS];\n*   Business continuity and disaster recovery documentation and test results [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS];\n*   Cybersecurity questionnaire and penetration testing summary [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS];\n*   Regulatory compliance certifications (e.g., PCI-DSS, ISO 27001) [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS];\n*   Sub-contractor/sub-processor identification and risk assessment [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS];\n*   Legal review of the contract and data processing agreement [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS];\n*   An on-site assessment for vendors handling more than 1 million customer records [Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS].\n\nAdditionally, operational risk from these providers must be captured in the Risk and Control Self-Assessment (RCSA) [Source: POL-ORM-004, Section: 7. THIRD-PARTY RISK WITHIN OPERATIONAL RISK].\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.\n\nConfidence: HIGH",
+      "contexts": [
+        "7. THIRD-PARTY RISK WITHIN OPERATIONAL RISK\n=============================================================\n7.1 Operational risk from third-party providers is captured in the RCSA and must be assessed during vendor due diligence (see POL-TPM-008).\n7.2 Critical vendor outages that cause operational disruption must be treated as Category 6 loss events.",
+        "=============================================================\n3.1 Tier 1 (Critical) Due Diligence:\n    (a) Financial viability assessment (audited financials for past 3 years);\n    (b) SOC 1 Type II and SOC 2 Type II reports (or equivalent);\n    (c) Business continuity and disaster recovery documentation and test results;\n    (d) Cybersecurity questionnaire and penetration testing summary;\n    (e) Regulatory compliance certifications (PCI-DSS, ISO 27001, etc.);\n    (f) Sub-contractor/sub-processor identification and risk assessment;\n    (g) Legal review of contract and data processing agreement;\n    (h) On-site assessment for vendors handling >1 million customer records.",
+        "ite assessment for vendors handling >1 million customer records.\n\n3.2 Tier 2 (High) Due Diligence:\n    (a) Financial viability check;\n    (b) SOC 2 Type II report or cybersecurity questionnaire;\n    (c) BCP documentation summary;\n    (d) Legal review of contract.\n\n3.3 Tier 3 (Standard) Due Diligence:\n    (a) Standard vendor registration and verification;\n    (b) Contractual representations and warranties.",
+        "2. THIRD-PARTY RISK TIERING\n=============================================================\n2.1 All third-party relationships are assigned a risk tier at onboarding:\n    - Tier 1 (Critical): Vendors providing core banking functions, data center hosting, payment processing, or having access to significant volumes of customer PII. Failure would materially disrupt Bank operations or expose customers to significant harm.",
+        "=============================================================\n4.1 Tier 1 vendors: Annual full due diligence refresh; quarterly performance monitoring; continuous financial health monitoring.\n4.2 Tier 2 vendors: Biennial due diligence refresh; semi-annual performance monitoring.\n4.3 Tier 3 vendors: Periodic review as warranted.\n4.4 Adverse news alerts for Tier 1 and Tier 2 vendors must be reviewed within 5 business days."
+      ],
+      "ground_truth": "Per POL-TPM-008 Section 3.1, Tier 1 (Critical) vendor due diligence requires: financial viability assessment (3 years audited financials); SOC 1 Type II and SOC 2 Type II reports; business continuity and disaster recovery documentation and test results; cybersecurity questionnaire and penetration testing summary; regulatory compliance certifications (PCI-DSS, ISO 27001); sub-contractor identification and risk assessment; legal review of contract and data processing agreement; and on-site assessment for vendors handling more than 1 million customer records.",
+      "confidence": "MEDIUM",
+      "citations": [
+        "Source: POL-ORM-004, Section: 7. THIRD-PARTY RISK WITHIN OPERATIONAL RISK",
+        "Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS",
+        "Source: POL-TPM-008, Section: 3. DUE DILIGENCE REQUIREMENTS",
+        "Source: POL-TPM-008, Section: 2. THIRD-PARTY RISK TIERING",
+        "Source: POL-TPM-008, Section: 4. ONGOING MONITORING"
+      ],
+      "latency_ms": 11179
+    },
+    {
+      "question": "What whistleblower protections and reporting channels are available to employees?",
+      "answer": "Employees have access to both internal reporting channels and external regulatory whistleblower programs.\n\n### Internal Reporting Channels\nEmployees may report concerns regarding suspected misconduct, violations of law, or breaches of bank policy through the following channels:\n*   **Ethics Hotline:** 1-800-XXX-XXXX (operated by an independent third-party, available 24/7) [Source: POL-WBS-010, Section: 3. REPORTING CHANNELS].\n*   **Ethics Online Portal:** Available at https://ethics.intranet.bank, which supports anonymous submissions [Source: POL-WBS-010, Section: 3. REPORTING CHANNELS].\n*   **Direct Reporting:** Concerns may be reported directly to the General Counsel or the Chief Ethics Officer [Source: POL-WBS-010, Section: 3. REPORTING CHANNELS].\n*   **Board Audit Committee:** Concerns involving senior management may be reported directly to the Board Audit Committee Chair [Source: POL-WBS-010, Section: 3. REPORTING CHANNELS].\n\n### External Regulatory Whistleblower Programs\nEmployees retain the right to report concerns directly to the following external entities:\n*   **SEC Whistleblower Office:** Eligible for awards of 10–30% of sanctions exceeding $1 million [Source: POL-WBS-010, Section: 7. EXTERNAL REGULATORY WHISTLEBLOWER PROGRAMS].\n*   **CFPB Whistleblower Program** [Source: POL-WBS-010, Section: 7. EXTERNAL REGULATORY WHISTLEBLOWER PROGRAMS].\n*   **OCC Whistleblower Program** [Source: POL-WBS-010, Section: 7. EXTERNAL REGULATORY WHISTLEBLOWER PROGRAMS].\n*   **FinCEN AML Whistleblower Program:** Awards are available for original information leading to sanctions exceeding $1 million [Source: POL-WBS-010, Section: 7. EXTERNAL REGULATORY WHISTLEBLOWER PROGRAMS].\n\n### Protections\nThe bank maintains a non-retaliation commitment [Source: POL-WBS-010, Section: 4. NON-RETALIATION COMMITMENT]. Employees who believe they have been retaliated against should report the matter immediately to the General Counsel, or to the Board Audit Committee if the concern involves the General Counsel [Source: POL-WBS-010, Section: 4. NON-RETALIATION COMMITMENT].\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.\n\nConfidence: HIGH",
+      "contexts": [
+        "=============================================================\n7.1 Employees retain the right to report concerns directly to:\n    - SEC Whistleblower Office: Eligible for awards of 10–30% of sanctions above $1 million;\n    - CFPB Whistleblower Program;\n    - OCC Whistleblower Program;\n    - FinCEN AML Whistleblower Program: Awards available for original information leading to sanctions above $1 million.",
+        "=============================================================\n3.1 Employees may report concerns through any of the following channels:\n    (a) Ethics Hotline: 1-800-XXX-XXXX (operated by independent third-party, available 24/7);\n    (b) Ethics Online Portal: https://ethics.intranet.bank (anonymous submission available);\n    (c) Direct report to the General Counsel or Chief Ethics Officer;\n    (d) Direct report to the Board Audit Committee Chair (for concerns involving senior management);",
+        "DOCUMENT HISTORY\n=============================================================\nv1.7 (Jun 2024): Added FinCEN AML whistleblower provisions per Anti-Money Laundering Act 2020.\nv1.6 (Jan 2024): Updated reporting channels to include anonymous portal.",
+        "=============================================================\nThis policy establishes the Bank's commitment to maintaining an ethical workplace and providing employees, contractors, and third parties with protected channels to report concerns about suspected misconduct, violations of law, or breaches of Bank policy. It aligns with Section 806 of Sarbanes-Oxley (SOX), Dodd-Frank Section 922 (SEC Whistleblower Program), and FinCEN's AML whistleblower provisions.",
+        "subject to disciplinary action up to and including termination.\n4.4 Employees who believe they have been retaliated against should report immediately to the General Counsel or, if the concern involves the General Counsel, directly to the Board Audit Committee."
+      ],
+      "ground_truth": "Per POL-WBS-010, employees can report concerns through: Ethics Hotline (24/7, third-party operated), Ethics Online Portal (anonymous submission available), directly to the General Counsel or Chief Ethics Officer, to the Board Audit Committee Chair for concerns involving senior management, or to external regulators (SEC, CFPB, OCC, FinCEN). The Bank strictly prohibits retaliation including termination, demotion, suspension, or harassment. Supervisors who retaliate face disciplinary action up to termination. Reports are acknowledged within 5 business days.",
+      "confidence": "LOW",
+      "citations": [
+        "Source: POL-WBS-010, Section: 7. EXTERNAL REGULATORY WHISTLEBLOWER PROGRAMS",
+        "Source: POL-WBS-010, Section: 3. REPORTING CHANNELS",
+        "Source: POL-WBS-010, Section: DOCUMENT HISTORY",
+        "Source: POL-WBS-010, Section: 1. PURPOSE",
+        "Source: POL-WBS-010, Section: 4. NON-RETALIATION COMMITMENT"
+      ],
+      "latency_ms": 2691
+    },
+    {
+      "question": "What are the minimum Liquidity Coverage Ratio requirements and what happens when LCR falls below 100%?",
+      "answer": "The minimum Liquidity Coverage Ratio (LCR) requirement for the Bank is 100% at all times [Source: POL-LQD-007, Section: 2. LIQUIDITY RISK APPETITE]. \n\nIf the LCR falls below the 100% minimum, it triggers an immediate escalation to the Asset-Liability Management Committee (ALCO) and the Chief Risk Officer (CRO) [Source: POL-LQD-007, Section: 3. LIQUIDITY COVERAGE RATIO (LCR)].\n\nConfidence: HIGH\n\n***\n\nTRUST NOTICE: This response is AI-generated and must be reviewed by a qualified compliance officer before any action is taken. This tool provides AI-Recommend guidance; Human-Approve is required.",
+      "contexts": [
+        "=============================================================\n2.1 The Bank shall maintain a minimum Liquidity Coverage Ratio (LCR) of 100% at all times.\n2.2 The Bank shall maintain a minimum Net Stable Funding Ratio (NSFR) of 100% at all times.\n2.3 The Bank's internal liquidity buffer target is 15% of total deposits above the regulatory LCR minimum.\n2.4 The Bank shall maintain access to contingency funding sources equivalent to a minimum of 20% of total uninsured deposits.",
+        "50% haircut): Certain RMBS, corporate bonds (up to 15% of HQLA).\n3.3 LCR must be calculated daily and reported to the Asset-Liability Management Committee (ALCO) weekly.\n3.4 LCR breach of the 100% minimum triggers immediate escalation to ALCO and CRO.",
+        "=============================================================\nThis policy governs the identification, measurement, monitoring, and control of liquidity risk at Regional Community Bank. It incorporates requirements from the Basel III Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR), FFIEC guidance on liquidity risk, and the Bank's Risk Appetite Statement.",
+        "=============================================================\n3.1 LCR = High-Quality Liquid Assets (HQLA) / Total Net Cash Outflows over 30-day stress period ≥ 100%.\n3.2 HQLA Classification:\n    - Level 1 (no haircut): Cash, central bank reserves, qualifying government securities;\n    - Level 2A (15% haircut): Agency securities, qualifying covered bonds (up to 40% of HQLA);\n    - Level 2B (25%–50% haircut): Certain RMBS, corporate bonds (up to 15% of HQLA).",
+        "CCB: effective floor of 8.5%;\n    - Bank internal target: 11.0%.\n\n2.3 Total Capital Ratio:\n    - Minimum requirement: 8.0% of RWA;\n    - With CCB: effective floor of 10.5%;\n    - Bank internal target: 13.0%.\n\n2.4 Leverage Ratio:\n    - Minimum Tier 1 Leverage Ratio: 4.0% of average total consolidated assets.\n\n2.5 Capital Distribution Restrictions: If CET1 falls below 7.0%, the Bank enters automatic restrictions on capital distributions (dividends, buybacks) per the Capital Conservation Buffer framework."
+      ],
+      "ground_truth": "Per POL-LQD-007 Section 3, the Bank must maintain a minimum LCR of 100% at all times. LCR equals High-Quality Liquid Assets divided by total net cash outflows over a 30-day stress period. LCR must be calculated daily and reported to ALCO weekly. A breach of the 100% minimum triggers immediate escalation to ALCO and the CRO. The bank also maintains an internal liquidity buffer target of 15% of total deposits above the regulatory LCR minimum.",
+      "confidence": "LOW",
+      "citations": [
+        "Source: POL-LQD-007, Section: 2. LIQUIDITY RISK APPETITE",
+        "Source: POL-LQD-007, Section: 3. LIQUIDITY COVERAGE RATIO (LCR)",
+        "Source: POL-LQD-007, Section: 1. PURPOSE",
+        "Source: POL-LQD-007, Section: 3. LIQUIDITY COVERAGE RATIO (LCR)",
+        "Source: REG-BUL-001, Section: 2. MINIMUM CAPITAL REQUIREMENTS (COMMUNITY BANK STANDARD)"
+      ],
+      "latency_ms": 1349
+    }
+  ],
+  "thresholds": {
+    "faithfulness": 0.9,
+    "context_recall": 0.85,
+    "context_precision": 0.8
+  }
+}

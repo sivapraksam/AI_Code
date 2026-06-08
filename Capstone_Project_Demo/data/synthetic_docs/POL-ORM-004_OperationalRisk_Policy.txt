@@ -1,0 +1,84 @@
+DOCUMENT ID: POL-ORM-004
+TITLE: Operational Risk Management Policy
+VERSION: 2.8
+EFFECTIVE DATE: April 1, 2025
+REVIEW DATE: March 31, 2026
+OWNER: Chief Risk Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This policy establishes the Operational Risk Management (ORM) framework for Regional Community Bank. Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people, systems, or external events. This includes legal risk but excludes strategic and reputational risk.
+
+=============================================================
+2. OPERATIONAL RISK TAXONOMY
+=============================================================
+The Bank categorizes operational risk events per the Basel Committee taxonomy:
+    Category 1: Internal Fraud
+    Category 2: External Fraud
+    Category 3: Employment Practices and Workplace Safety
+    Category 4: Clients, Products, and Business Practices
+    Category 5: Damage to Physical Assets
+    Category 6: Business Disruption and Systems Failures
+    Category 7: Execution, Delivery, and Process Management
+
+=============================================================
+3. RISK AND CONTROL SELF-ASSESSMENT (RCSA)
+=============================================================
+3.1 All business lines must complete an annual RCSA process.
+3.2 RCSA must identify material risks, assess inherent risk (likelihood × impact), document key controls, assess residual risk, and identify remediation actions for High residual risks.
+3.3 Residual Risk Rating Scale:
+    - Low: Impact < $50,000 and likelihood < 20%;
+    - Medium: Impact $50,000–$500,000 or likelihood 20%–60%;
+    - High: Impact > $500,000 or likelihood > 60%;
+    - Critical: Impact > $5,000,000 or likelihood > 80%.
+3.4 High and Critical residual risks must have a documented remediation plan with a target resolution date not exceeding 90 days.
+
+=============================================================
+4. OPERATIONAL LOSS EVENT REPORTING
+=============================================================
+4.1 All operational loss events above $1,000 must be reported to Operational Risk Management within 5 business days.
+4.2 Loss events above $100,000 must be reported to the Chief Risk Officer within 2 business days.
+4.3 Loss events above $1,000,000 must be reported to the Board Risk Committee at the next scheduled meeting.
+4.4 The minimum data fields to capture for each loss event are:
+    (a) Event date and discovery date;
+    (b) Business line and process affected;
+    (c) Loss category per Basel taxonomy;
+    (d) Gross loss amount and recovery amount;
+    (e) Root cause analysis;
+    (f) Corrective action plan.
+
+=============================================================
+5. KEY RISK INDICATORS (KRIs)
+=============================================================
+5.1 Each business line shall maintain a set of KRIs approved by the Operational Risk Committee.
+5.2 KRIs must have defined amber (warning) and red (breach) thresholds.
+5.3 KRI breaches (red threshold) must be reported to the CRO within 3 business days.
+5.4 Standard enterprise-wide KRIs include:
+    - System availability rate (target: ≥ 99.9%);
+    - Failed transaction rate (target: < 0.1%);
+    - Staff attrition rate in control functions (amber: > 15%; red: > 25%);
+    - Audit finding closure rate (target: > 90% within agreed timeline);
+    - Unresolved customer complaints > 30 days (target: < 5).
+
+=============================================================
+6. BUSINESS CONTINUITY AND DISASTER RECOVERY
+=============================================================
+6.1 Each critical business function must have a documented Business Continuity Plan (BCP).
+6.2 BCPs must be tested at minimum annually.
+6.3 Recovery Time Objective (RTO) for Tier 1 systems: 4 hours.
+6.4 Recovery Point Objective (RPO) for Tier 1 systems: 1 hour.
+6.5 The Disaster Recovery Plan (DRP) must be reviewed and updated following any significant system change or actual invocation.
+
+=============================================================
+7. THIRD-PARTY RISK WITHIN OPERATIONAL RISK
+=============================================================
+7.1 Operational risk from third-party providers is captured in the RCSA and must be assessed during vendor due diligence (see POL-TPM-008).
+7.2 Critical vendor outages that cause operational disruption must be treated as Category 6 loss events.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v2.8 (Apr 2025): Updated loss event thresholds; added KRI breach reporting timelines.
+v2.7 (Jan 2024): Aligned RCSA with Basel standardized approach.

@@ -1,0 +1,92 @@
+DOCUMENT ID: POL-CMP-015
+TITLE: Compliance Risk Management Program Overview
+VERSION: 3.1
+EFFECTIVE DATE: January 1, 2025
+REVIEW DATE: December 31, 2025
+OWNER: Chief Compliance Officer
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. PURPOSE
+=============================================================
+This document provides an overview of Regional Community Bank's Compliance Risk Management Program (CRMP). It describes the three-lines-of-defense model, the compliance risk assessment process, regulatory change management, and the compliance monitoring and testing program.
+
+=============================================================
+2. THREE LINES OF DEFENSE
+=============================================================
+2.1 First Line of Defense — Business Lines:
+    - Own and manage compliance risks in day-to-day operations;
+    - Implement policies, procedures, and controls;
+    - Self-identify and report compliance issues;
+    - Complete required training.
+
+2.2 Second Line of Defense — Compliance Function:
+    - Develop, maintain, and update compliance policies and standards;
+    - Conduct compliance risk assessment annually;
+    - Provide independent monitoring and testing of first line compliance;
+    - Advise on regulatory requirements;
+    - Report compliance risk status to senior management and Board.
+
+2.3 Third Line of Defense — Internal Audit:
+    - Provide independent assurance on effectiveness of compliance risk management;
+    - Conduct periodic compliance audits per the annual audit plan;
+    - Report audit findings to Board Audit Committee.
+
+=============================================================
+3. COMPLIANCE RISK ASSESSMENT
+=============================================================
+3.1 An annual Compliance Risk Assessment (CRA) evaluates inherent compliance risk and residual risk across all applicable laws and regulations.
+3.2 The CRA uses a two-dimensional risk matrix:
+    - Inherent risk: Probability of non-compliance × Magnitude of potential regulatory/financial impact;
+    - Control effectiveness: Strength of policies, procedures, training, and monitoring;
+    - Residual risk = Inherent risk adjusted for control effectiveness.
+3.3 Regulations with High residual compliance risk receive enhanced monitoring and testing.
+3.4 CRA results are presented to the Compliance Committee and Board Risk Committee.
+
+=============================================================
+4. REGULATORY CHANGE MANAGEMENT
+=============================================================
+4.1 The Regulatory Affairs team monitors regulatory changes from:
+    - Federal Register;
+    - OCC, FDIC, Federal Reserve, CFPB, FinCEN, SEC bulletins and guidance;
+    - Industry associations (ABA, ICBA, FFIEC);
+    - Legal counsel.
+4.2 Each regulatory change is assessed for impact within 30 days of publication.
+4.3 Implementation plans for significant regulatory changes are presented to the Compliance Committee.
+4.4 Policy updates required by regulatory change must be completed before the effective date of the regulation.
+
+=============================================================
+5. COMPLIANCE MONITORING AND TESTING
+=============================================================
+5.1 The Compliance Monitoring and Testing (CMT) program provides ongoing assurance that controls are operating effectively.
+5.2 Testing categories:
+    (a) Transactional Testing: Review of samples of individual transactions for compliance (e.g., Reg Z disclosure accuracy, HMDA data quality);
+    (b) Process Testing: End-to-end review of compliance processes (e.g., DSAR handling, complaint management);
+    (c) Issue Tracking Testing: Verification that previously identified issues have been remediated.
+5.3 CMT results are summarized in a quarterly Compliance Testing Report to the Compliance Committee.
+
+=============================================================
+6. ESCALATION PATHS FOR COMPLIANCE CONCERNS
+=============================================================
+6.1 Standard Escalation: Compliance concerns identified by first line → Business Line Manager → Compliance Business Partner → CCO.
+6.2 Sensitive Concerns: Issues involving senior management, Board members, or regulatory self-reporting obligations → directly to CCO or General Counsel.
+6.3 Low-Confidence Queries: When Compliance staff cannot determine the correct regulatory answer with confidence, the matter is escalated to:
+    (a) Internal Regulatory Affairs subject matter expert;
+    (b) If unresolved, to external legal counsel;
+    (c) If jurisdiction-specific uncertainty, to local legal counsel in the relevant jurisdiction.
+6.4 Jurisdiction-Specific Queries: State-specific consumer protection or privacy laws that differ from federal standards are escalated to state-specific legal counsel.
+6.5 Policy Boundary Queries: Questions about the boundary between two policies (e.g., AML vs. Fraud) are resolved by the CCO in consultation with the relevant policy owners.
+
+=============================================================
+7. COMPLIANCE COMMITTEE AND REPORTING
+=============================================================
+7.1 The Compliance Committee meets monthly. Members include CCO, CRO, General Counsel, Head of Internal Audit, and business line heads.
+7.2 Board Risk Committee receives a Compliance Risk Quarterly Report.
+7.3 Board Audit Committee receives Internal Audit findings on compliance.
+7.4 Annual compliance report to the Board includes: CRA summary, CMT results, regulatory change summary, training completion rates, complaint trends.
+
+=============================================================
+DOCUMENT HISTORY
+=============================================================
+v3.1 (Jan 2025): Added jurisdiction-specific and policy boundary escalation paths.
+v3.0 (Jan 2024): Major revision adding CMT program detail.

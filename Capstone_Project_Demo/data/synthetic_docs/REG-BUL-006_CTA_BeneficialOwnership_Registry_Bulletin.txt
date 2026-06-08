@@ -1,0 +1,74 @@
+DOCUMENT ID: REG-BUL-006
+TITLE: Regulatory Bulletin — FinCEN Final Rule on Beneficial Ownership Registry (CTA 2024 Implementation)
+VERSION: 1.0
+ISSUE DATE: February 1, 2025
+EFFECTIVE DATE: Immediate
+ISSUING AUTHORITY: Regulatory Affairs Division / AML Compliance
+CLASSIFICATION: Internal — Restricted
+
+=============================================================
+1. EXECUTIVE SUMMARY
+=============================================================
+This bulletin provides guidance on the Corporate Transparency Act (CTA) Beneficial Ownership Information (BOI) reporting requirements implemented by FinCEN, effective January 1, 2024 for new entities and January 1, 2025 for existing entities. It also addresses the Bank's obligations as a financial institution accessing the FinCEN BOI database.
+
+=============================================================
+2. CORPORATE TRANSPARENCY ACT OVERVIEW
+=============================================================
+2.1 The Corporate Transparency Act (CTA), enacted as part of the Anti-Money Laundering Act of 2020, requires certain U.S. entities ("Reporting Companies") to report beneficial ownership information to FinCEN.
+
+2.2 Reporting Companies include corporations, LLCs, and similar entities formed or registered to do business in the United States, with exceptions for:
+    - Publicly traded companies;
+    - Banks, credit unions, and registered investment companies;
+    - Entities with >20 full-time U.S. employees, >$5M in gross revenue, and physical U.S. office;
+    - Other specifically exempt categories (23 total exemptions).
+
+2.3 The Bank itself is exempt from CTA reporting as a federally regulated financial institution.
+
+=============================================================
+3. WHAT REPORTING COMPANIES MUST FILE
+=============================================================
+3.1 Reporting Companies must submit to FinCEN:
+    (a) Company name (legal and trade names);
+    (b) Principal U.S. address;
+    (c) State or tribal jurisdiction of formation;
+    (d) EIN / TIN;
+    (e) For each Beneficial Owner (individuals owning ≥25% or exercising substantial control):
+        - Full legal name;
+        - Date of birth;
+        - Current residential address;
+        - Unique identifying document (driver's license, passport) and image.
+
+3.2 Deadlines:
+    - Entities formed before January 1, 2024: Must file by January 1, 2025;
+    - Entities formed in 2024: Must file within 90 days of formation;
+    - Entities formed after January 1, 2025: Must file within 30 days of formation;
+    - Updates to beneficial ownership: Must be reported within 30 days of change.
+
+=============================================================
+4. BANK ACCESS TO FINCEN BOI DATABASE
+=============================================================
+4.1 Financial institutions subject to customer due diligence requirements (including the Bank) will have access to the FinCEN BOI database upon its full deployment (Phase 2 expected 2025–2026).
+4.2 The Bank may query the BOI database to satisfy beneficial ownership verification requirements under the CDD Rule.
+4.3 Important: BOI database access does NOT replace the Bank's obligation to collect its own beneficial ownership certifications. The database should be used as a supplementary verification tool.
+4.4 Limitations: BOI data is as of the date last reported; may not reflect recent changes. Always verify currency with the customer.
+
+=============================================================
+5. IMPLICATIONS FOR THE BANK'S CDD PROGRAM
+=============================================================
+5.1 Customer Communication: The Bank should inform legal entity customers of their CTA reporting obligations; however, the Bank is not responsible for customers' CTA compliance.
+5.2 CDD Enhancements: When the BOI database becomes accessible, the KYC periodic review process (POL-KYC-002, Section 6) should incorporate a BOI database query step for High-risk entity customers.
+5.3 Discrepancy Handling: If the Bank identifies a discrepancy between the customer's beneficial ownership certification and the FinCEN BOI database, this must be investigated as a potential SAR indicator.
+
+=============================================================
+6. PENALTIES
+=============================================================
+6.1 For Reporting Companies failing to comply with CTA: Civil penalties up to $591/day (2025 adjusted); criminal penalties up to $10,000 and/or 2 years imprisonment.
+6.2 For financial institutions: Unauthorized use or disclosure of BOI data carries significant civil and criminal penalties.
+
+=============================================================
+7. REQUIRED BANK ACTIONS
+=============================================================
+- Monitor FinCEN announcements on Phase 2 BOI database access timeline.
+- Prepare BOI query procedures for integration into KYC workflow (target: 30 days before database availability).
+- Train KYC/CDD staff on CTA, BOI database use, and discrepancy handling procedures (target: Q2 2025).
+- Update POL-KYC-002 to incorporate BOI database query requirement (target: upon database availability).
